@@ -1,0 +1,1201 @@
+id,path,speakerId,transcription,action,object,location,llm_response
+,,,Turn the screen on,activate,tv,none,The tv has been turned on.
+,,,Switch on the television,activate,tv,none,The tv has been turned on.
+,,,Start the screen,activate,tv,none,The tv has been turned on.
+,,,"Let's watch something, turn on the TV",activate,tv,none,The tv has been turned on.
+,,,Fire up the TV,activate,tv,none,The tv has been turned on.
+,,,Switch the TV on,activate,tv,none,The tv has been turned on.
+,,,TV on,activate,tv,none,The tv has been turned on.
+,,,Turn on the TV,activate,tv,none,The tv has been turned on.
+,,,Power up the television,activate,tv,none,The tv has been turned on.
+,,,Enable the television,activate,tv,none,The tv has been turned on.
+,,,Turn on the TV please,activate,tv,none,The tv has been turned on.
+,,,Switch on the screen in the bedroom,activate,tv,bedroom,The tv has been turned on.
+,,,Can you power on the TV?,activate,tv,none,The tv has been turned on.
+,,,Let's get the living room screen on,activate,tv,none,The tv has been turned on.
+,,,Enable the kitchen display,activate,tv,kitchen,The tv has been turned on.
+,,,Could you start the bedroom television?,activate,tv,bedroom,The tv has been turned on.
+,,,"I want to watch something, turn on the TV",activate,tv,none,The tv has been turned on.
+,,,It's time to watch ? fire up the TV,activate,tv,none,The tv has been turned on.
+,,,Start the washroom display now,activate,tv,washroom,The tv has been turned on.
+,,,Please activate the screen,activate,tv,none,The tv has been turned on.
+,,,Make the TV run,activate,tv,none,The tv has been turned on.
+,,,Start playing on the television,activate,tv,none,The tv has been turned on.
+,,,Can we switch on the display?,activate,tv,none,The tv has been turned on.
+,,,Boot up the TV in the bedroom,activate,tv,bedroom,The tv has been turned on.
+,,,Wake the kitchen screen,activate,tv,kitchen,The tv has been turned on.
+,,,Let's turn on the washroom television,activate,tv,washroom,The tv has been turned on.
+,,,Ready the screen in the kitchen,activate,tv,kitchen,The tv has been turned on.
+,,,Spin up the TV please,activate,tv,none,The tv has been turned on.
+,,,Engage the bedroom screen,activate,tv,bedroom,The tv has been turned on.
+,,,Let's turn on the washroom TV,activate,tv,washroom,The tv has been turned on.
+,,,I'd like the screen on now,activate,tv,none,The tv has been turned on.
+,,,Please power on the television in the kitchen,activate,tv,kitchen,The tv has been turned on.
+,,,Fire up the TV screen,activate,tv,none,The tv has been turned on.
+,,,Initiate the washroom screen,activate,tv,washroom,The tv has been turned on.
+,,,"Screen on, please",activate,tv,none,The tv has been turned on.
+,,,Start the television now,activate,tv,none,The tv has been turned on.
+,,,Could you turn on the bedroom TV?,activate,tv,bedroom,The tv has been turned on.
+,,,Begin the kitchen display,activate,tv,kitchen,The tv has been turned on.
+,,,Let's go ahead and turn on the TV,activate,tv,none,The tv has been turned on.
+,,,"Screen, activate!",activate,tv,none,The tv has been turned on.
+,,,"Display, start now",activate,tv,none,The tv has been turned on.
+,,,TV mode on,activate,tv,none,The tv has been turned on.
+,,,I need the TV on,activate,tv,none,The tv has been turned on.
+,,,Time to turn on the screen,activate,tv,none,The tv has been turned on.
+,,,Push power on the kitchen television,activate,tv,kitchen,The tv has been turned on.
+,,,Display on in the bedroom,activate,tv,bedroom,The tv has been turned on.
+,,,Can you switch on the washroom TV?,activate,tv,washroom,The tv has been turned on.
+,,,Bring up the TV now,activate,tv,none,The tv has been turned on.
+,,,Turn the TV display on please,activate,tv,none,The tv has been turned on.
+,,,Activate the washroom lights,activate,lights,washroom,The washroom lights have been activated.
+,,,Bathroom lights on,activate,lights,washroom,The bathroom lights are now on.
+,,,Bedroom lights on,activate,lights,bedroom,Bedroom lights have been turned on.
+,,,Bring up the lights in the washroom,activate,lights,washroom,The washroom lights are now on.
+,,,Can we have some light in the kitchen?,activate,lights,kitchen,The kitchen lights are now on.
+,,,Can we turn on the kitchen lights?,activate,lights,kitchen,The kitchen lights have been turned on.
+,,,Can you light up the kitchen for me?,activate,lights,kitchen,The kitchen lights are now on.
+,,,Can you start the bedroom lights?,activate,lights,bedroom,The bedroom lights are now on.
+,,,Can you start the lights in the kitchen?,activate,lights,kitchen,The kitchen lights are now on.
+,,,Can you turn on the lights for me?,activate,lights,none,The lights have been turned on.
+,,,Could you activate the bedroom lights?,activate,lights,bedroom,The bedroom lights have been activated.
+,,,Could you switch the washroom lights on?,activate,lights,washroom,The washroom lights have been switched on.
+,,,Could you turn on the kitchen lights for me?,activate,lights,kitchen,The kitchen lights have been switched on.
+,,,Get the washroom lights on,activate,lights,washroom,The washroom lights have been turned on.
+,,,How about lighting up the washroom?,activate,lights,washroom,The washroom lights have been turned on.
+,,,I want the kitchen to be bright,activate,lights,kitchen,The kitchen lights have been turned on.
+,,,I'd like the washroom lights on,activate,lights,washroom,The washroom lights are now on.
+,,,I'd like to turn the bedroom lights on,activate,lights,bedroom,The bedroom lights have been turned on.
+,,,I'd really like the lights on in the kitchen now,activate,lights,kitchen,The kitchen lights have been turned on.
+,,,Kindly turn the kitchen lights on,activate,lights,kitchen,The kitchen lights have been switched on.
+,,,Kitchen lights on,activate,lights,kitchen,The kitchen lights have been turned on.
+,,,Let the lights shine in the washroom,activate,lights,washroom,The washroom lights have been turned on.
+,,,Let's activate the washroom lights,activate,lights,washroom,The washroom lights have been turned on.
+,,,Let's get some illumination going in the bedroom,activate,lights,bedroom,The bedroom lights have been turned on.
+,,,Let's light up the whole place,activate,lights,none,The lights are now on.
+,,,Let's have those kitchen lights brought to life,activate,lights,kitchen,The kitchen lights are now on.
+,,,Let's light up the washroom,activate,lights,washroom,The washroom lights are now on.
+,,,Lights on,activate,lights,none,The lights are now on.
+,,,Lights on in the bathroom,activate,lights,washroom,The lights in the bathroom are now on.
+,,,Lights on in the bedroom,activate,lights,bedroom,The bedroom lights are now on.
+,,,Lights on in the kitchen,activate,lights,kitchen,The lights in the kitchen are now on.
+,,,Lights on in the washroom,activate,lights,washroom,The lights in the washroom are now on.
+,,,"Lights, please?in the bedroom",activate,lights,bedroom,The bedroom lights have been turned on.
+,,,Make it bright in the kitchen,activate,lights,kitchen,The kitchen lights are now on.
+,,,Please brighten the bedroom,activate,lights,bedroom,The bedroom lights are now on.
+,,,Please brighten the washroom,activate,lights,washroom,The washroom lights have been turned on.
+,,,Please illuminate the kitchen,activate,lights,kitchen,The kitchen lights are now on.
+,,,Please light up the kitchen,activate,lights,kitchen,The kitchen lights are now on.
+,,,Please make the bedroom brighter,activate,lights,bedroom,The bedroom lights have been turned on.
+,,,Please put the lights on in the bedroom,activate,lights,bedroom,The bedroom lights have been turned on.
+,,,Please start the lights in the bedroom,activate,lights,bedroom,The bedroom lights are now on.
+,,,Please turn the washroom lights back on,activate,lights,washroom,The washroom lights have been turned back on.
+,,,Power on the kitchen lights please,activate,lights,kitchen,The kitchen lights have been turned on.
+,,,Power on the lights in the bedroom,activate,lights,bedroom,The bedroom lights have been powered on.
+,,,Power on the lights in the kitchen,activate,lights,kitchen,The kitchen lights have been powered on.
+,,,Power up the bedroom lights,activate,lights,bedroom,The bedroom lights are now on.
+,,,Start the kitchen lights,activate,lights,kitchen,The kitchen lights are now on.
+,,,Start the lights in the bedroom,activate,lights,bedroom,The bedroom lights are now on.
+,,,Start the lights in the washroom,activate,lights,washroom,The washroom lights are now on.
+,,,Start up the kitchen lights,activate,lights,kitchen,The kitchen lights are now on.
+,,,Switch on the bathroom lights,activate,lights,washroom,The bathroom lights have been switched on.
+,,,Switch on the house lights,activate,lights,none,The lights have been switched on.
+,,,Switch on the kitchen lights,activate,lights,kitchen,The kitchen lights have been switched on.
+,,,Switch on the lights,activate,lights,none,The lights have been switched on.
+,,,Switch on the lights in the bedroom,activate,lights,bedroom,The lights in the bedroom have been switched on.
+,,,Switch on the lights in the house,activate,lights,none,The lights have been turned on.
+,,,Switch on the lights in the kitchen,activate,lights,kitchen,The lights in the kitchen have been switched on.
+,,,Switch on the washroom lights,activate,lights,washroom,The washroom lights have been switched on.
+,,,Switch the bedroom lights on,activate,lights,bedroom,The bedroom lights have been switched on.
+,,,Switch the kitchen lights on,activate,lights,kitchen,The kitchen lights have been switched on.
+,,,Switch the lights on,activate,lights,none,The lights have been switched on.
+,,,Time to light up the bedroom,activate,lights,bedroom,The bedroom lights are now on.
+,,,Turn on all the lights,activate,lights,none,The lights have been turned on.
+,,,Turn on the bathroom lights,activate,lights,washroom,The bathroom lights have been turned on.
+,,,Turn on the kitchen lights,activate,lights,kitchen,The kitchen lights have been turned on.
+,,,Turn on the lights,activate,lights,none,The lights have been turned on.
+,,,Turn on the lights in the bedroom,activate,lights,bedroom,The lights in the bedroom have been turned on.
+,,,Turn on the lights in the bedroom please,activate,lights,bedroom,The bedroom lights have been turned on.
+,,,"Turn on the lights in the washroom, please",activate,lights,washroom,The washroom lights have been turned on.
+,,,Turn on the lights throughout the house,activate,lights,none,The lights have been turned on.
+,,,Turn on the washroom lights,activate,lights,washroom,The washroom lights have been turned on.
+,,,Turn the bathroom lights on,activate,lights,washroom,The bathroom lights have been turned on.
+,,,Turn the bedroom lights on,activate,lights,bedroom,The bedroom lights have been turned on.
+,,,Turn the bedroom lights on again,activate,lights,bedroom,The bedroom lights have been switched on.
+,,,Turn the kitchen lights on,activate,lights,kitchen,The kitchen lights have been turned on.
+,,,Turn the lights back on in the kitchen,activate,lights,kitchen,The kitchen lights have been turned on again.
+,,,Turn the lights on,activate,lights,none,The lights have been turned on.
+,,,Turn the lights on in the hallway,activate,lights,none,The lights have been turned on.
+,,,Turn the lights on in the kitchen,activate,lights,kitchen,The lights in the kitchen have been turned on.
+,,,Turn the lights on throughout,activate,lights,none,The lights have been turned on.
+,,,Turn the washroom lights on,activate,lights,washroom,The washroom lights are now on.
+,,,Turn the washroom lights on now,activate,lights,washroom,The washroom lights have been turned on.
+,,,Wake up the bedroom with some light,activate,lights,bedroom,The bedroom lights are now on.
+,,,Washroom lights on,activate,lights,washroom,The washroom lights are now turned on.
+,,,Activate the music system,activate,music,none,Music has been activated.
+,,,Begin the music in the bedroom,activate,music,bedroom,The music is now playing in the bedroom.
+,,,Can you start playing music in the bedroom?,activate,music,bedroom,Music is now playing in the bedroom.
+,,,Can you start playing music in the kitchen?,activate,music,kitchen,The music is now playing in the kitchen.
+,,,Care to fire up the music in here?,activate,music,none,Music has started playing.
+,,,Could you put on the music in the bedroom?,activate,music,bedroom,Music is now playing in the bedroom.
+,,,"Music on in the washroom, please",activate,music,washroom,Music is now playing in the washroom.
+,,,Fire up the kitchen music,activate,music,kitchen,Music is now playing in the kitchen.
+,,,Fire up the music in the kitchen,activate,music,kitchen,The music is now playing in the kitchen.
+,,,Get the kitchen music going,activate,music,kitchen,Music is now playing in the kitchen.
+,,,Get the washroom music started,activate,music,washroom,Music is now playing in the washroom.
+,,,How about playing some music?,activate,music,none,The music is now playing.
+,,,I want music in the kitchen now,activate,music,kitchen,Music is now playing in the kitchen.
+,,,I want to hear some music now,activate,music,none,The music has started playing.
+,,,I'd like some music now,activate,music,none,Music is now playing.
+,,,I'd like to hear some music now,activate,music,none,The music has started playing.
+,,,Let's get some music going,activate,music,none,Music has started playing.
+,,,Let's have some music in the bedroom,activate,music,bedroom,Music is now playing in the bedroom.
+,,,Let's have some music now,activate,music,none,The music has started playing.
+,,,Let's hear some music,activate,music,none,Music is now playing.
+,,,Let's hear some music in the washroom,activate,music,washroom,Music is now playing in the washroom.
+,,,Let's hear something in the kitchen,activate,music,kitchen,Music is now playing in the kitchen.
+,,,Let's play some tunes,activate,music,none,Music is now playing.
+,,,Let's play something in the washroom,activate,music,washroom,Music is now playing in the washroom.
+,,,Let's put on some music in the washroom,activate,music,washroom,Music is now playing in the washroom.
+,,,Let's turn the music back on in the bedroom,activate,music,bedroom,The music is now playing in the bedroom again.
+,,,Mind turning on the music for me?,activate,music,none,Music is now playing.
+,,,Play,activate,music,none,Music is now playing.
+,,,Play a song,activate,music,none,The music is now playing.
+,,,Play a song in the kitchen,activate,music,kitchen,The kitchen music is now on.
+,,,Play me some tunes in the bedroom,activate,music,bedroom,Music is now playing in the bedroom.
+,,,Play music,activate,music,none,Music is now playing.
+,,,Play music in the washroom,activate,music,washroom,Music is now playing in the washroom.
+,,,Play some music in the bedroom,activate,music,bedroom,The music is now playing in the bedroom.
+,,,Play some music in the house,activate,music,none,The music is now playing.
+,,,Play some music in the kitchen,activate,music,kitchen,Music is now playing in the kitchen.
+,,,Play some music right now,activate,music,none,Music has started playing.
+,,,Play something in the kitchen,activate,music,kitchen,Music is now playing in the kitchen.
+,,,Play something nice in the bedroom,activate,music,bedroom,Music is now playing in the bedroom.
+,,,Play the music,activate,music,none,The music is now playing.
+,,,Please get the music going,activate,music,none,Music is now playing.
+,,,Please play music in the kitchen,activate,music,kitchen,Music is now playing in the kitchen.
+,,,Please play music in the washroom,activate,music,washroom,Music is now playing in the washroom.
+,,,Please play something in the washroom,activate,music,washroom,Music is now playing in the washroom.
+,,,Please start the music in the bedroom,activate,music,bedroom,The music is now playing in the bedroom.
+,,,Power on the bedroom music,activate,music,bedroom,Music is now playing in the bedroom.
+,,,Put on the music,activate,music,none,Music is now playing.
+,,,Resume,activate,music,none,Music has been resumed.
+,,,Resume music,activate,music,none,Music has been resumed.
+,,,Start music in the kitchen now,activate,music,kitchen,Music is now playing in the kitchen.
+,,,Start playing music in the washroom,activate,music,washroom,Music is now playing in the washroom.
+,,,Start playing music please,activate,music,none,Music has started playing.
+,,,Start playing some music for me,activate,music,none,The music is now playing.
+,,,Start playing something in the bedroom,activate,music,bedroom,The music is now playing in the bedroom.
+,,,Start the kitchen music please,activate,music,kitchen,Music is now playing in the kitchen.
+,,,Start the music,activate,music,none,Music has been started.
+,,,Start the music in the washroom,activate,music,washroom,Music has started playing in the washroom.
+,,,Start the music now,activate,music,none,The music is now playing.
+,,,Switch on the kitchen music,activate,music,kitchen,Music is now playing in the kitchen.
+,,,Switch on the washroom music,activate,music,washroom,Music is now playing in the washroom.
+,,,Switch the music on in the bedroom,activate,music,bedroom,The music is now playing in the bedroom.
+,,,Switch the music on in the kitchen,activate,music,kitchen,The kitchen music is now on.
+,,,Turn on some tunes,activate,music,none,Music has started playing.
+,,,Turn on the music in the bedroom,activate,music,bedroom,Music is now playing in the bedroom.
+,,,Turn on the music system,activate,music,none,Music is now playing.
+,,,Turn the music back on in the bedroom,activate,music,bedroom,The music is playing in the bedroom again.
+,,,Turn the music on in the washroom,activate,music,washroom,Music is now playing in the washroom.
+,,,Turn off the TV please,deactivate,tv,none,The tv has been turned off.
+,,,Switch off the screen in the bedroom,deactivate,tv,bedroom,The tv has been turned off.
+,,,Can you power down the TV?,deactivate,tv,none,The tv has been turned off.
+,,,Let's shut off the living room screen,deactivate,tv,none,The tv has been turned off.
+,,,Disable the kitchen display,deactivate,tv,kitchen,The tv has been turned off.
+,,,Could you stop the bedroom television?,deactivate,tv,bedroom,The tv has been turned off.
+,,,Time to rest the washroom TV,deactivate,tv,washroom,The tv has been turned off.
+,,,Stop the washroom display now,deactivate,tv,washroom,The tv has been turned off.
+,,,Please deactivate the screen,deactivate,tv,none,The tv has been turned off.
+,,,Make the TV go off,deactivate,tv,none,The tv has been turned off.
+,,,Stop playing on the television,deactivate,tv,none,The tv has been turned off.
+,,,Can we switch off the display?,deactivate,tv,none,The tv has been turned off.
+,,,Power down the TV in the bedroom,deactivate,tv,bedroom,The tv has been turned off.
+,,,Put the kitchen screen to rest,deactivate,tv,kitchen,The tv has been turned off.
+,,,Shut down the washroom television,deactivate,tv,washroom,The tv has been turned off.
+,,,Turn off the screen now,deactivate,tv,none,The tv has been turned off.
+,,,Power off the display in the kitchen,deactivate,tv,kitchen,The tv has been turned off.
+,,,Turn off the TV in the bedroom,deactivate,tv,bedroom,The tv has been turned off.
+,,,TV off,deactivate,tv,none,The tv has been turned off.
+,,,Let's turn off the washroom screen,deactivate,tv,washroom,The tv has been turned off.
+,,,Shut the bedroom television off,deactivate,tv,bedroom,The tv has been turned off.
+,,,Pull the plug on the kitchen TV,deactivate,tv,kitchen,The tv has been turned off.
+,,,Please shut off the TV,deactivate,tv,none,The tv has been turned off.
+,,,Screen off,deactivate,tv,none,The tv has been turned off.
+,,,I'd like the TV to stop now,deactivate,tv,none,The tv has been turned off.
+,,,Cut the power to the washroom screen,deactivate,tv,washroom,The tv has been turned off.
+,,,Let's stop the display in the kitchen,deactivate,tv,kitchen,The tv has been turned off.
+,,,Switch off the display please,deactivate,tv,none,The tv has been turned off.
+,,,Kill the screen in the bedroom,deactivate,tv,bedroom,The tv has been turned off.
+,,,Put out the kitchen TV,deactivate,tv,kitchen,The tv has been turned off.
+,,,I don't need the television on anymore,deactivate,tv,none,The tv has been turned off.
+,,,Wrap up the washroom display,deactivate,tv,washroom,The tv has been turned off.
+,,,Shut down the TV please,deactivate,tv,none,The tv has been turned off.
+,,,I want the screen off now,deactivate,tv,none,The tv has been turned off.
+,,,Time to turn off the screen,deactivate,tv,none,The tv has been turned off.
+,,,Cut the signal to the kitchen TV,deactivate,tv,kitchen,The tv has been turned off.
+,,,Switch off the washroom display,deactivate,tv,washroom,The tv has been turned off.
+,,,Turn the TV display off,deactivate,tv,none,The tv has been turned off.
+,,,Make the television stop working,deactivate,tv,none,The tv has been turned off.
+,,,Please put the display to sleep,deactivate,tv,none,The tv has been turned off.
+,,,Can you switch off the screen in the washroom?,deactivate,tv,washroom,The tv has been turned off.
+,,,Power off the display unit,deactivate,tv,none,The tv has been turned off.
+,,,Switch off the lights,deactivate,lights,none,The lights have been switched off.
+,,,Switch the lights off,deactivate,lights,none,The lights have been switched off.
+,,,Turn the lights off in the kitchen,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Switch off the lights in the kitchen,deactivate,lights,kitchen,The lights in the kitchen have been switched off.
+,,,Switch the lights off in the kitchen,deactivate,lights,kitchen,The kitchen lights have been switched off.
+,,,Kitchen lights off,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Turn the bedroom lights off,deactivate,lights,bedroom,The bedroom lights have been turned off.
+,,,Switch the bedroom lights off,deactivate,lights,bedroom,The bedroom lights have been switched off.
+,,,Bedroom lights off,deactivate,lights,bedroom,The bedroom lights have been turned off.
+,,,Switch off the washroom lights,deactivate,lights,washroom,The washroom lights have been switched off.
+,,,Lights off in the washroom,deactivate,lights,washroom,The lights in the washroom have been turned off.
+,,,Washroom lights off,deactivate,lights,washroom,The washroom lights have been turned off.
+,,,Turn the washroom lights off,deactivate,lights,washroom,The washroom lights have been turned off.
+,,,Turn off the lights,deactivate,lights,none,The lights have been turned off.
+,,,Turn the lights off,deactivate,lights,none,The lights have been turned off.
+,,,Lights off,deactivate,lights,none,The lights have been turned off.
+,,,Turn off the kitchen lights,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Lights off in the kitchen,deactivate,lights,kitchen,The lights in the kitchen have been turned off.
+,,,Turn off the lights in the bedroom,deactivate,lights,bedroom,The lights in the bedroom have been turned off.
+,,,Switch off the lights in the bedroom,deactivate,lights,bedroom,The lights in the bedroom have been switched off.
+,,,Lights off in the bedroom,deactivate,lights,bedroom,The lights in the bedroom are now off.
+,,,Turn off the washroom lights,deactivate,lights,washroom,The washroom lights have been turned off.
+,,,Can you shut off the bedroom lights?,deactivate,lights,bedroom,The bedroom lights have been turned off.
+,,,Kill the lights in the bedroom,deactivate,lights,bedroom,The bedroom lights are now off.
+,,,Cut the lights in the washroom,deactivate,lights,washroom,The washroom lights have been turned off.
+,,,Can we turn off the lights now?,deactivate,lights,none,The lights have been turned off.
+,,,Shut off the washroom lights,deactivate,lights,washroom,The washroom lights are now off.
+,,,Please cut the lights in the kitchen,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Lights out in the washroom please,deactivate,lights,washroom,The washroom lights are now off.
+,,,Let's power down the bedroom lights,deactivate,lights,bedroom,The bedroom lights have been powered down.
+,,,Please turn off the lights in the kitchen,deactivate,lights,kitchen,The kitchen lights are now off.
+,,,Lights off in every room please,deactivate,lights,none,All lights have been turned off.
+,,,Darken the bedroom lights,deactivate,lights,bedroom,The bedroom lights are now off.
+,,,Power off the lights in the washroom,deactivate,lights,washroom,The washroom lights have been turned off.
+,,,Power down the kitchen lights,deactivate,lights,kitchen,The kitchen lights are now off.
+,,,Would you mind turning the lights off?,deactivate,lights,none,The lights have been turned off.
+,,,Lights down in the kitchen,deactivate,lights,kitchen,The kitchen lights are now off.
+,,,I want to turn off the lights here,deactivate,lights,none,The lights are now off.
+,,,Please shut down the kitchen lights,deactivate,lights,kitchen,The kitchen lights are now off.
+,,,Let's go dark in the washroom,deactivate,lights,washroom,The washroom lights are now off.
+,,,The kitchen doesn't need lights right now,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Cut the bedroom lighting,deactivate,lights,bedroom,The bedroom lights are now off.
+,,,I don't need the lights anymore,deactivate,lights,none,The lights have been turned off.
+,,,Let's shut down the bedroom lights,deactivate,lights,bedroom,The bedroom lights are now off.
+,,,Dim the kitchen lights completely,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Let's make the room dark again,deactivate,lights,none,The lights have been turned off.
+,,,Shut the lights down in the kitchen,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Let's unplug the lights metaphorically,deactivate,lights,none,The lights are now off.
+,,,Put an end to the kitchen lighting,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Take the lights down in the bedroom,deactivate,lights,bedroom,The bedroom lights have been turned off.
+,,,Please pull the plug on the kitchen lights,deactivate,lights,kitchen,The kitchen lights have been shut off.
+,,,Let's stop the lights in the washroom,deactivate,lights,washroom,The washroom lights have been turned off.
+,,,Let's get the bedroom dark again,deactivate,lights,bedroom,The bedroom lights are now off.
+,,,Stop all active lights now,deactivate,lights,none,All lights have been turned off.
+,,,Turn the lights out in the washroom,deactivate,lights,washroom,The washroom lights are now off.
+,,,Can we darken the kitchen for now?,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Remove the lighting from the bedroom,deactivate,lights,bedroom,The bedroom lights are now off.
+,,,Time to sleep?lights off please,deactivate,lights,none,The lights have been turned off.
+,,,Darken the entire bedroom please,deactivate,lights,bedroom,The bedroom lights are now off.
+,,,Please deactivate the lighting here,deactivate,lights,none,The lights have been turned off.
+,,,Make it dark in the washroom,deactivate,lights,washroom,The washroom lights have been turned off.
+,,,Kill the mood with lights off,deactivate,lights,none,The lights have been turned off.
+,,,Take the lights offline in the kitchen,deactivate,lights,kitchen,The kitchen lights are now off.
+,,,Can we stop lighting the bedroom?,deactivate,lights,bedroom,The bedroom lights are off now.
+,,,Let's kill the lights for now,deactivate,lights,none,All lights have been turned off.
+,,,I'd like total darkness please,deactivate,lights,none,All lights have been turned off.
+,,,Deactivate the bedroom ambiance,deactivate,lights,bedroom,The bedroom lights have been deactivated.
+,,,Switch off the bedroom atmosphere,deactivate,lights,bedroom,The bedroom lights are now off.
+,,,Let's put an end to all lights,deactivate,lights,none,All lights have been turned off.
+,,,Bring down the kitchen lights,deactivate,lights,kitchen,The kitchen lights are now off.
+,,,Time to power off the kitchen light,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Turn off all the bathroom lights,deactivate,lights,washroom,The washroom lights have been turned off.
+,,,Disable the lights here,deactivate,lights,none,The lights have been disabled.
+,,,Cancel the kitchen illumination,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,Deactivate all bedroom lighting,deactivate,lights,bedroom,The bedroom lights have been deactivated.
+,,,End all lighting now please,deactivate,lights,none,All lighting has been turned off.
+,,,Can you tone down the lights in the kitchen?,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,No need for lights in the washroom now,deactivate,lights,washroom,The washroom lights have been turned off.
+,,,Let's power off the lights in the bedroom,deactivate,lights,bedroom,The bedroom lights have been turned off.
+,,,Switch off the lights in every corner,deactivate,lights,none,All lights have been switched off.
+,,,Let's shut down the washroom lighting,deactivate,lights,washroom,The washroom lights are now off.
+,,,Kill the lights in the kitchen for me,deactivate,lights,kitchen,The kitchen lights have been turned off.
+,,,"Lights off, please?everywhere",deactivate,lights,none,All lights have been turned off.
+,,,Turn off the music,deactivate,music,none,The music has been turned off.
+,,,Stop the music,deactivate,music,none,Music has been stopped.
+,,,Pause music,deactivate,music,none,Music has been paused.
+,,,Stop,deactivate,music,none,Music has been stopped.
+,,,Pause the music,deactivate,music,none,The music has been paused.
+,,,Stop music,deactivate,music,none,Music has been stopped.
+,,,Pause,deactivate,music,none,Music has been paused.
+,,,Let's stop the music in the washroom,deactivate,music,washroom,Music has been stopped in the washroom.
+,,,Turn the music off in the kitchen,deactivate,music,kitchen,The kitchen music has been turned off.
+,,,Stop the music that's playing,deactivate,music,none,The music has been stopped.
+,,,Mute the music in the bedroom,deactivate,music,bedroom,The music has been turned off in the bedroom.
+,,,I don't want any music right now,deactivate,music,none,Music has been turned off.
+,,,End the music session,deactivate,music,none,Music playback has ended.
+,,,Stop whatever music is playing,deactivate,music,none,Music has stopped.
+,,,Turn the music off now,deactivate,music,none,Music has been stopped.
+,,,Please stop the kitchen music,deactivate,music,kitchen,The kitchen music has been stopped.
+,,,I'd like silence now,deactivate,music,none,The music has been turned off.
+,,,Pause the music in the bedroom,deactivate,music,bedroom,The bedroom music has been paused.
+,,,Turn off the bedroom music please,deactivate,music,bedroom,Music in the bedroom has been turned off.
+,,,Please stop playing music,deactivate,music,none,The music has stopped.
+,,,Kill the sound in the washroom,deactivate,music,washroom,The music in the washroom has stopped.
+,,,Switch off the music completely,deactivate,music,none,Music has been completely stopped.
+,,,Please end the music in the bedroom,deactivate,music,bedroom,The bedroom music has ended.
+,,,No more music in the washroom please,deactivate,music,washroom,Music has been turned off in the washroom.
+,,,Can we lose the music now?,deactivate,music,none,Music has been stopped.
+,,,Turn off the music playing in the kitchen,deactivate,music,kitchen,The kitchen music has been turned off.
+,,,Deactivate the music in the washroom,deactivate,music,washroom,Music in the washroom has been deactivated.
+,,,Please pause whatever music is on,deactivate,music,none,The music has been paused.
+,,,Stop the sound in the bedroom,deactivate,music,bedroom,The music in the bedroom has stopped.
+,,,Please switch off the music in the kitchen,deactivate,music,kitchen,Music in the kitchen has been stopped.
+,,,Power down the music in the house,deactivate,music,none,Music has been turned off.
+,,,Turn off whatever is playing,deactivate,music,none,Music playback has ended.
+,,,"I want a quiet space, stop the music",deactivate,music,none,Music has been stopped.
+,,,Cut the washroom audio,deactivate,music,washroom,Music in the washroom has been turned off.
+,,,Wrap up the bedroom music,deactivate,music,bedroom,Music in the bedroom has been turned off.
+,,,Make it silent by stopping the music,deactivate,music,none,The music has stopped.
+,,,I'm done with the music for today,deactivate,music,none,Music has been turned off.
+,,,Can you please stop the washroom music?,deactivate,music,washroom,Music in the washroom has stopped.
+,,,"Deactivate all music, please",deactivate,music,none,All music has been turned off.
+,,,Let's go silent in the bedroom,deactivate,music,bedroom,Music in the bedroom has been turned off.
+,,,Can you end the song playing right now?,deactivate,music,none,Music playback has ended.
+,,,Don't need music in the kitchen anymore,deactivate,music,kitchen,Music in the kitchen has been turned off.
+,,,Please silence the music in the bedroom,deactivate,music,bedroom,Music in the bedroom has stopped.
+,,,Deactivate whatever music is active,deactivate,music,none,Music has been deactivated.
+,,,Shut off the kitchen soundtrack,deactivate,music,kitchen,Music in the kitchen has stopped.
+,,,Switch off everything playing music,deactivate,music,none,Music playback has been stopped.
+,,,End all sounds in the washroom,deactivate,music,washroom,Music playback has been stopped.
+,,,Can you shut off the bedroom music?,deactivate,music,bedroom,Music in the bedroom has been turned off.
+,,,"Turn that music off, will you?",deactivate,music,none,The music has been turned off.
+,,,Get rid of the sound in the kitchen,deactivate,music,kitchen,The kitchen music has been turned off.
+,,,The kitchen doesn't need music now,deactivate,music,kitchen,Music in the kitchen has been turned off.
+,,,Please power off the bedroom music,deactivate,music,bedroom,Music in the bedroom has been powered off.
+,,,Can we stop the music completely?,deactivate,music,none,Music has been turned off.
+,,,Power down the washroom audio,deactivate,music,washroom,The washroom music has been stopped.
+,,,Please deactivate the speakers,deactivate,music,none,The music has been silenced.
+,,,Shut off the washroom music,deactivate,music,washroom,The music has been turned off.
+,,,Shut off the bedroom soundtrack,deactivate,music,bedroom,The bedroom music has been turned off.
+,,,Cease the music in every room,deactivate,music,none,All music has been turned off.
+,,,No music in the kitchen anymore,deactivate,music,kitchen,Music in the kitchen has been turned off.
+,,,Let's unplug the music metaphorically,deactivate,music,none,Music has stopped.
+,,,Turn the sound off in the washroom,deactivate,music,washroom,Music in the washroom has been stopped.
+,,,Power down that kitchen speaker,deactivate,music,kitchen,Music in the kitchen has stopped.
+,,,Mute the system completely,deactivate,music,none,Music output has been muted.
+,,,Stop broadcasting audio in the bedroom,deactivate,music,bedroom,Music in the bedroom has stopped.
+,,,Stop the audio track in the kitchen,deactivate,music,kitchen,Music in the kitchen has stopped.
+,,,I'd prefer no music right now,deactivate,music,none,Music has been turned off.
+,,,Let's silence the bedroom output,deactivate,music,bedroom,Music in the bedroom has been muted.
+,,,Stop playing the music,deactivate,music,none,Music has been turned off.
+,,,The washroom doesn't need music anymore,deactivate,music,washroom,Music in the washroom has been turned off.
+,,,Let's mute the background sounds,deactivate,music,none,The music has been muted.
+,,,Turn off whatever is playing in the kitchen,deactivate,music,kitchen,The kitchen music has been stopped.
+,,,Stop the melody in the washroom,deactivate,music,washroom,Music in the washroom has been stopped.
+,,,Silence the tune in the bedroom,deactivate,music,bedroom,Music in the bedroom has been silenced.
+,,,Pause the audio in the washroom,deactivate,music,washroom,Music in the washroom has been paused.
+,,,Power down the bedroom speaker,deactivate,music,bedroom,The bedroom music has been turned off.
+,,,Volume up,increase,volume,none,Volume has been increased.
+,,,Turn the volume up,increase,volume,none,The volume has been increased.
+,,,Turn up the temperature,increase,heat,none,The temperature has been increased.
+,,,Turn the heat up,increase,heat,none,The heat has been increased.
+,,,Turn it up,increase,volume,none,The volume has been increased.
+,,,Volume max,increase,volume,none,The volume has been increased to the maximum.
+,,,Louder please,increase,volume,none,The volume has been increased.
+,,,Increase the volume,increase,volume,none,The volume has been increased.
+,,,Increase the sound volume,increase,volume,none,The sound volume has been increased.
+,,,I need volume,increase,volume,none,The sound volume has been increased.
+,,,Louder phone,increase,volume,none,The volume has been increased.
+,,,"I need to hear this, increase the volume",increase,volume,none,The volume has been increased.
+,,,"I couldn't hear anything, turn up the volume",increase,volume,none,The volume has been increased. Let me know if there's anything else you need!
+,,,"This video sound is too low, turn up the volume",increase,volume,none,The volume has been increased successfully.
+,,,Increase the temperature,increase,heat,none,The temperature has been increased successfully.
+,,,Increase the heating,increase,heat,none,Heating has been increased.
+,,,Could you increase the heating please?,increase,heat,none,The heating has been increased.
+,,,Make it hotter,increase,heat,none,The heat has been increased.
+,,,More heat,increase,heat,none,The heat has been increased.
+,,,Heat up,increase,heat,none,The heat has been increased.
+,,,Turn the kitchen temperature up,increase,heat,kitchen,The kitchen temperature has been increased.
+,,,Increase the temperature in the kitchen,increase,heat,kitchen,The temperature in the kitchen has been increased.
+,,,Increase the heating in the kitchen,increase,heat,kitchen,The heating in the kitchen has been increased.
+,,,Turn up the heat in the kitchen,increase,heat,kitchen,The heat in the kitchen has been turned up.
+,,,Turn up the temperature in the bedroom,increase,heat,bedroom,The temperature in the bedroom has been increased.
+,,,Turn the temperature in the bedroom up,increase,heat,bedroom,The temperature in the bedroom has been increased.
+,,,Turn up the bedroom heat,increase,heat,bedroom,The bedroom heat has been turned up.
+,,,Bedroom heat up,increase,heat,bedroom,The heat in the bedroom has been increased.
+,,,Increase the temperature in the bedroom,increase,heat,bedroom,The temperature in the bedroom has been increased.
+,,,Increase the heating in the bedroom,increase,heat,bedroom,Heating in the bedroom has been increased.
+,,,Turn up the washroom temperature,increase,heat,washroom,The washroom temperature has been turned up.
+,,,Washroom heat up,increase,heat,washroom,The heat in the washroom has been increased.
+,,,Increase the temperature in the washroom,increase,heat,washroom,The temperature in the washroom has been increased.
+,,,Turn up the bathroom temperature,increase,heat,washroom,The bathroom temperature has been increased.
+,,,Turn the temperature up in the bathroom,increase,heat,washroom,The temperature in the bathroom has been increased.
+,,,Turn up the heat in the bathroom,increase,heat,washroom,The heat in the bathroom has been turned up.
+,,,Turn the heat up in the bathroom,increase,heat,washroom,The heat in the bathroom has been increased.
+,,,Bathroom heat up,increase,heat,washroom,The heat in the bathroom has been increased.
+,,,Increase the temperature in the bathroom,increase,heat,washroom,The temperature in the bathroom has been increased.
+,,,Increase the heating in the bathroom,increase,heat,washroom,The heating in the bathroom has been increased successfully.
+,,,Turn sound up,increase,volume,none,The volume has been increased.
+,,,Make it louder,increase,volume,none,The volume has been increased.
+,,,Louder,increase,volume,none,The volume has been increased.
+,,,Too quiet,increase,volume,none,The volume has been increased.
+,,,Could you increase the heating?,increase,heat,none,Heating has been increased.
+,,,Turn up the temperature in the kitchen,increase,heat,kitchen,The temperature in the kitchen has been turned up.
+,,,Turn the heat up in the kitchen,increase,heat,kitchen,The heat in the kitchen has been turned up.
+,,,Kitchen heat up,increase,heat,kitchen,The heat in the kitchen has been increased.
+,,,Turn the heat up in the washroom,increase,heat,washroom,The heat in the washroom has been increased.
+,,,Increase the heating in the washroom,increase,heat,washroom,The heating in the washroom has been increased.
+,,,Turn up the volume,increase,volume,none,The volume has been turned up.
+,,,Make the music louder,increase,volume,none,The music volume has been increased.
+,,,Turn the temperature up,increase,heat,none,The temperature has been increased.
+,,,Turn up the heat,increase,heat,none,The heat has been turned up.
+,,,Turn volume up,increase,volume,none,The volume has been increased.
+,,,Increase the sound,increase,volume,none,The volume has been increased.
+,,,I can't hear that,increase,volume,none,I have increased the volume. Let me know if there's anything else you need!
+,,,That's too quiet,increase,volume,none,The volume has been increased.
+,,,Far too quiet,increase,volume,none,The volume has been increased.
+,,,Turn the sound up,increase,volume,none,The volume has been increased.
+,,,Turn the bedroom heat up,increase,heat,bedroom,The heat in the bedroom has been increased.
+,,,Turn the temperature up in the washroom,increase,heat,washroom,The temperature in the washroom has been increased.
+,,,Turn up the heat in the washroom,increase,heat,washroom,The heat in the washroom has been increased.
+,,,Increase the volume please,increase,volume,none,The volume has been increased.
+,,,Can you raise the heat in the kitchen?,increase,heat,kitchen,The kitchen heat has been increased.
+,,,Turn up the bedroom volume now,increase,volume,bedroom,The volume in the bedroom has been turned up.
+,,,Please make it warmer in the washroom,increase,heat,washroom,The washroom heat has been turned up.
+,,,Let's boost the volume,increase,volume,none,The volume has been boosted.
+,,,Raise the heat a bit,increase,heat,none,The heat has been increased slightly.
+,,,Turn the kitchen heat up a notch,increase,heat,kitchen,The kitchen is now warmer.
+,,,Make the bedroom warmer please,increase,heat,bedroom,The bedroom temperature has been increased.
+,,,Could you crank up the music volume?,increase,volume,none,The volume has been turned up.
+,,,Let's raise the washroom heat,increase,heat,washroom,The washroom is now warmer.
+,,,Volume up in the kitchen please,increase,volume,kitchen,The kitchen volume has been increased.
+,,,Increase the heat in the bedroom now,increase,heat,bedroom,The bedroom heat has been increased.
+,,,Please turn up the washroom volume,increase,volume,washroom,The volume in the washroom has been turned up.
+,,,Turn the volume higher,increase,volume,none,The volume has been raised.
+,,,Let's get the kitchen warmer,increase,heat,kitchen,The heat in the kitchen has been turned up.
+,,,Raise the bedroom audio volume,increase,volume,bedroom,The bedroom volume is now louder.
+,,,Make it louder in the kitchen,increase,volume,kitchen,The kitchen volume has been increased.
+,,,Warm up the place please,increase,heat,none,The temperature has been raised.
+,,,Can you make it hotter in the washroom?,increase,heat,washroom,The washroom temperature has been increased.
+,,,Boost the bedroom volume now,increase,volume,bedroom,The bedroom volume has been boosted.
+,,,Crank the heat in the kitchen,increase,heat,kitchen,The kitchen heat has been cranked up.
+,,,"Volume too low, turn it up",increase,volume,none,The volume has been increased.
+,,,Can you raise the temperature here?,increase,heat,none,The heat has been raised.
+,,,Increase the washroom temperature,increase,heat,washroom,The washroom is now warmer.
+,,,Put the kitchen volume up,increase,volume,kitchen,The volume in the kitchen has been turned up.
+,,,Let's bump up the bedroom temperature,increase,heat,bedroom,The bedroom is now warmer.
+,,,Please raise the sound,increase,volume,none,The volume has been raised.
+,,,Turn up the thermostat in the washroom,increase,heat,washroom,The washroom heat has been turned up.
+,,,Make the bedroom louder please,increase,volume,bedroom,The bedroom volume has been increased.
+,,,Warm up the kitchen,increase,heat,kitchen,The kitchen is now warmer.
+,,,Louder volume in the washroom please,increase,volume,washroom,The washroom volume has been raised.
+,,,Turn up the heat now,increase,heat,none,The heat has been increased.
+,,,Crank up the bedroom heater,increase,heat,bedroom,The bedroom is now warmer.
+,,,Give me more volume please,increase,volume,none,The volume has been increased.
+,,,Make the washroom warmer please,increase,heat,washroom,The washroom temperature has been increased.
+,,,Turn the bedroom volume louder,increase,volume,bedroom,The bedroom volume has been turned up.
+,,,Boost the heat everywhere,increase,heat,none,The temperature has been increased.
+,,,Let's turn up the kitchen audio,increase,volume,kitchen,The kitchen volume has been turned up.
+,,,Increase sound in the bedroom,increase,volume,bedroom,The bedroom volume is louder now.
+,,,Warm it up in here please,increase,heat,none,The temperature has been raised.
+,,,I need more heat in the bedroom,increase,heat,bedroom,The bedroom is now warmer.
+,,,Increase the speaker volume,increase,volume,none,The speaker volume has been raised.
+,,,Pump up the heat in the kitchen,increase,heat,kitchen,The kitchen heat has been increased.
+,,,I'd like it louder now?increase it,increase,volume,none,The volume has been turned up.
+,,,Raise the heat level in the bedroom,increase,heat,bedroom,The bedroom heat is now higher.
+,,,More sound in the kitchen please,increase,volume,kitchen,The kitchen is now louder.
+,,,Increase the washroom speaker volume,increase,volume,washroom,The washroom volume has been increased.
+,,,Make it hotter in the kitchen now,increase,heat,kitchen,The kitchen heat has been turned up.
+,,,Raise the volume in all rooms,increase,volume,none,The overall volume has been increased.
+,,,Could we get some more heat in here?,increase,heat,none,The temperature has been increased.
+,,,Louder volume in the bedroom please,increase,volume,bedroom,The bedroom volume has been turned up.
+,,,Let's increase the washroom audio,increase,volume,washroom,The washroom volume has been raised.
+,,,Raise the thermostat please,increase,heat,none,The temperature has been raised.
+,,,Volume up the kitchen audio system,increase,volume,kitchen,The kitchen is now louder.
+,,,Turn up the sound in the washroom,increase,volume,washroom,The washroom volume is now higher.
+,,,Turn the volume up a bit,increase,volume,none,The volume has been increased.
+,,,Please increase the kitchen volume,increase,volume,kitchen,The kitchen volume has been increased.
+,,,Can you turn up the bedroom sound?,increase,volume,bedroom,The bedroom volume is now louder.
+,,,Raise the volume in the washroom,increase,volume,washroom,The washroom volume has been increased.
+,,,Make it warmer in here please,increase,heat,none,The temperature has been raised.
+,,,Heat up the kitchen now,increase,heat,kitchen,The kitchen is now warmer.
+,,,Warm up the bedroom a bit more,increase,heat,bedroom,The bedroom heat has been turned up.
+,,,Raise the heat in the washroom please,increase,heat,washroom,The washroom temperature has been increased.
+,,,Pump up the volume now,increase,volume,none,The volume has been increased.
+,,,More volume in the kitchen please,increase,volume,kitchen,The kitchen volume is now higher.
+,,,I'd like louder sound in the bedroom,increase,volume,bedroom,The bedroom volume has been raised.
+,,,Make the washroom music louder,increase,volume,washroom,The washroom volume has been turned up.
+,,,Could we get more heat here?,increase,heat,none,The heat has been increased.
+,,,Turn up the heat in the kitchen now,increase,heat,kitchen,The kitchen heat has been turned up.
+,,,Please increase the bedroom temperature,increase,heat,bedroom,The bedroom temperature has been increased.
+,,,Can you raise the washroom temperature?,increase,heat,washroom,The washroom heat has been increased.
+,,,"It's too quiet, turn it up",increase,volume,none,The volume has been raised.
+,,,Crank up the kitchen volume,increase,volume,kitchen,The kitchen volume is now higher.
+,,,Can you bump the bedroom audio?,increase,volume,bedroom,The bedroom volume has been turned up.
+,,,More volume in the washroom please,increase,volume,washroom,The washroom volume is now louder.
+,,,Raise the temperature across the house,increase,heat,none,The heat has been raised.
+,,,Crank up the kitchen heating,increase,heat,kitchen,The kitchen is now warmer.
+,,,Turn the bedroom heater up,increase,heat,bedroom,The bedroom heat has been increased.
+,,,Let's make the washroom warmer,increase,heat,washroom,The washroom is now warmer.
+,,,Boost the system volume,increase,volume,none,The volume has been boosted.
+,,,Turn up the speaker in the kitchen,increase,volume,kitchen,The kitchen speaker volume has been increased.
+,,,Can you raise the bedroom music volume?,increase,volume,bedroom,The bedroom volume is now louder.
+,,,Please raise the washroom speaker level,increase,volume,washroom,The washroom volume has been raised.
+,,,Turn up the temperature now,increase,heat,none,The temperature has been increased.
+,,,Increase the stove heat in the kitchen,increase,heat,kitchen,The kitchen heat has been turned up.
+,,,Let's heat the bedroom a bit more,increase,heat,bedroom,The bedroom is now warmer.
+,,,Give me more heat in the washroom,increase,heat,washroom,The washroom is warmer now.
+,,,Can you increase the volume again?,increase,volume,none,The volume has been increased.
+,,,Make the kitchen audio louder please,increase,volume,kitchen,The kitchen volume has been increased.
+,,,Turn up the sound in the bedroom,increase,volume,bedroom,The bedroom sound is now higher.
+,,,Pump up the washroom volume now,increase,volume,washroom,The washroom volume has been turned up.
+,,,Please turn up the heat a little,increase,heat,none,The temperature has been raised slightly.
+,,,Raise the kitchen thermostat,increase,heat,kitchen,The kitchen temperature has been raised.
+,,,Can you turn up the bedroom heat again?,increase,heat,bedroom,The bedroom is warmer now.
+,,,More heat in the washroom please,increase,heat,washroom,The washroom heat has been raised.
+,,,Max the volume,increase,volume,none,The volume has been set to maximum.
+,,,Let's increase the volume in the kitchen,increase,volume,kitchen,The kitchen volume has been increased.
+,,,Boost bedroom sound level please,increase,volume,bedroom,The bedroom volume has been boosted.
+,,,Could you enhance the washroom audio?,increase,volume,washroom,The washroom volume has been increased.
+,,,I need it warmer here,increase,heat,none,The temperature has been increased.
+,,,Make the kitchen a bit hotter,increase,heat,kitchen,The kitchen is now warmer.
+,,,Increase the heating in the bedroom please,increase,heat,bedroom,The bedroom heating has been turned up.
+,,,Heat up the washroom quickly,increase,heat,washroom,The washroom heat has been increased.
+,,,Turn the volume higher now,increase,volume,none,The volume has been raised.
+,,,Sound in the kitchen needs a boost,increase,volume,kitchen,The kitchen volume has been turned up.
+,,,Let's bring up the bedroom volume,increase,volume,bedroom,The bedroom volume has been increased.
+,,,Please add volume in the washroom,increase,volume,washroom,The washroom volume has been raised.
+,,,Turn the heat dial up in the kitchen,increase,heat,kitchen,The kitchen heat has been increased.
+,,,Raise the heater level in the bedroom,increase,heat,bedroom,The bedroom heat has been turned up.
+,,,Push up the washroom heating,increase,heat,washroom,The washroom is now warmer.
+,,,"I can't hear, increase the volume",increase,volume,none,The volume has been increased.
+,,,Volume in the kitchen is too low,increase,volume,kitchen,The kitchen volume has been increased.
+,,,Turn the bedroom volume all the way up,increase,volume,bedroom,The bedroom volume is now at maximum.
+,,,Please increase the washroom volume now,increase,volume,washroom,The washroom volume has been turned up.
+,,,"It's cold here, turn up the heat",increase,heat,none,The temperature has been increased.
+,,,Let's turn up the heat in the kitchen,increase,heat,kitchen,The kitchen is now warmer.
+,,,Could you raise the temperature in the bedroom?,increase,heat,bedroom,The bedroom heat has been increased.
+,,,Make the washroom heat stronger,increase,heat,washroom,The washroom heat is now higher.
+,,,Let's bring the volume up in the bedroom,increase,volume,bedroom,The bedroom volume has been increased.
+,,,Please make the washroom warmer than before,increase,heat,washroom,The washroom heat has been increased.
+,,,Increase the volume in every room please,increase,volume,none,The overall volume has been increased.
+,,,"The kitchen is too quiet, turn it up",increase,volume,kitchen,The kitchen volume has been raised.
+,,,Crank the bedroom heating system,increase,heat,bedroom,The bedroom heat has been turned up.
+,,,Turn up the speaker in the washroom,increase,volume,washroom,The washroom speaker volume has been increased.
+,,,"It's too cold, raise the temperature now",increase,heat,none,The temperature has been increased.
+,,,Can you make the kitchen audio louder?,increase,volume,kitchen,The kitchen volume has been turned up.
+,,,Please turn the volume up for this room,increase,volume,none,The volume has been increased.
+,,,Give more heat to the washroom please,increase,heat,washroom,The washroom is now warmer.
+,,,Let's increase the bedroom temperature setting,increase,heat,bedroom,The bedroom heat has been adjusted upward.
+,,,Turn up the living space audio,increase,volume,none,The main volume has been increased.
+,,,Raise the temperature setting in the kitchen,increase,heat,kitchen,The kitchen is now warmer.
+,,,Can you make the bedroom louder please?,increase,volume,bedroom,The bedroom volume has been increased.
+,,,Warm up the entire room please,increase,heat,none,The temperature has been raised.
+,,,I need to hear this clearly?increase volume,increase,volume,none,The volume has been increased.
+,,,Crank the washroom volume a bit more,increase,volume,washroom,The washroom volume has been increased.
+,,,Turn the heat up slightly in the bedroom,increase,heat,bedroom,The bedroom is now warmer.
+,,,Make the kitchen warmer for me please,increase,heat,kitchen,The kitchen temperature has been increased.
+,,,Turn the volume down,decrease,volume,none,The volume has been turned down.
+,,,Turn down the temperature,decrease,heat,none,The temperature has been turned down.
+,,,Turn the temperature down,decrease,heat,none,The temperature has been turned down.
+,,,Turn down the heat,decrease,heat,none,The heat has been turned down.
+,,,Turn the heat down,decrease,heat,none,The heat has been turned down.
+,,,Turn sound down,decrease,volume,none,The volume has been turned down.
+,,,Decrease audio volume,decrease,volume,none,The audio volume has been decreased.
+,,,Reduce audio volume,decrease,volume,none,The audio volume has been reduced.
+,,,Quieter,decrease,volume,none,The volume has been decreased.
+,,,Volume mute,decrease,volume,none,The volume has been muted.
+,,,Lower the volume,decrease,volume,none,The volume has been lowered.
+,,,Decrease sound levels,decrease,volume,none,The sound levels have been decreased.
+,,,Too loud,decrease,volume,none,The volume has been decreased.
+,,,That's too loud,decrease,volume,none,The volume has been decreased.
+,,,Far too loud,decrease,volume,none,The volume has been decreased.
+,,,"It's too loud, turn it down",decrease,volume,none,The volume has been turned down.
+,,,"It's too loud, turn the volume down",decrease,volume,none,The volume has been turned down.
+,,,Less heat,decrease,heat,none,The heat has been decreased.
+,,,Heat down,decrease,heat,none,The heat has been decreased.
+,,,Could you decrease the heating?,decrease,heat,none,Heating has been decreased successfully.
+,,,Turn the kitchen temperature down,decrease,heat,kitchen,The kitchen temperature has been decreased.
+,,,Turn the heat down in the kitchen,decrease,heat,kitchen,The heat in the kitchen has been turned down.
+,,,Kitchen heat down,decrease,heat,kitchen,The kitchen heat has been decreased.
+,,,Decrease the temperature in the kitchen,decrease,heat,kitchen,The temperature in the kitchen has been decreased.
+,,,Turn down the bedroom heat,decrease,heat,bedroom,The bedroom heat has been turned down.
+,,,Turn the bedroom heat down,decrease,heat,bedroom,The bedroom heat has been turned down.
+,,,Bedroom heat down,decrease,heat,bedroom,The heat in the bedroom has been decreased.
+,,,Decrease the temperature in the bedroom,decrease,heat,bedroom,The temperature in the bedroom has been decreased successfully.
+,,,Decrease the heating in the bedroom,decrease,heat,bedroom,Heating in the bedroom has been decreased.
+,,,Turn the temperature down in the washroom,decrease,heat,washroom,The temperature in the washroom has been turned down.
+,,,Turn down the heat in the washroom,decrease,heat,washroom,The heat in the washroom has been turned down successfully.
+,,,Decrease the heating in the washroom,decrease,heat,washroom,The heating in the washroom has been decreased.
+,,,Turn down the bathroom temperature,decrease,heat,washroom,The bathroom temperature has been turned down.
+,,,Turn down the heat in the bathroom,decrease,heat,washroom,The heat in the bathroom has been turned down.
+,,,Turn the heat down in the bathroom,decrease,heat,washroom,The heat in the bathroom has been turned down.
+,,,Decrease the temperature in the bathroom,decrease,heat,washroom,The temperature in the bathroom has been decreased.
+,,,Decrease the heating in the bathroom,decrease,heat,washroom,The heating in the bathroom has been decreased.
+,,,Bathroom heat down,decrease,heat,washroom,The heat in the bathroom has been decreased.
+,,,Volume down,decrease,volume,none,The volume has been decreased.
+,,,Make the music softer,decrease,volume,none,The music volume has been decreased.
+,,,Turn it down,decrease,volume,none,The audio volume has been reduced.
+,,,Volume lower,decrease,volume,none,The volume has been lowered.
+,,,Make it cooler,decrease,heat,none,The temperature has been decreased to make it cooler.
+,,,Decrease the temperature,decrease,heat,none,The temperature has been decreased.
+,,,Decrease the heating,decrease,heat,none,The heating has been decreased.
+,,,Turn down the heat in the kitchen,decrease,heat,kitchen,The heat in the kitchen has been turned down.
+,,,Decrease the heating in the kitchen,decrease,heat,kitchen,The heating in the kitchen has been decreased.
+,,,Turn down the temperature in the bedroom,decrease,heat,bedroom,The temperature in the bedroom has been turned down.
+,,,Turn the temperature in the bedroom down,decrease,heat,bedroom,The temperature in the bedroom has been turned down.
+,,,Turn the heat down in the washroom,decrease,heat,washroom,The heat in the washroom has been turned down.
+,,,Washroom heat down,decrease,heat,washroom,The heat in the washroom has been decreased.
+,,,Turn the temperature down in the bathroom,decrease,heat,washroom,The temperature has been decreased in the bathroom.
+,,,Turn down the volume,decrease,volume,none,The volume has been turned down.
+,,,Decrease volume,decrease,volume,none,The volume has been decreased.
+,,,Turn volume down,decrease,volume,none,The volume has been turned down successfully.
+,,,Decrease the volume,decrease,volume,none,The volume has been decreased.
+,,,Make it quieter,decrease,volume,none,The volume has been decreased.
+,,,Could you decrease the heating please?,decrease,heat,none,The heating has been decreased.
+,,,Turn down the temperature in the kitchen,decrease,heat,kitchen,The temperature in the kitchen has been turned down.
+,,,Turn down the washroom temperature,decrease,heat,washroom,The washroom temperature has been turned down.
+,,,Decrease the temperature in the washroom,decrease,heat,washroom,The temperature in the washroom has been decreased.
+,,,Please turn the volume down,decrease,volume,none,The volume has been turned down.
+,,,Lower the kitchen volume a bit,decrease,volume,kitchen,The kitchen volume has been decreased.
+,,,Turn the bedroom volume down now,decrease,volume,bedroom,The bedroom volume has been lowered.
+,,,Can you make the washroom volume softer?,decrease,volume,washroom,The washroom volume has been turned down.
+,,,"It's too hot here, lower the heat",decrease,heat,none,The temperature has been decreased.
+,,,Please cool down the kitchen,decrease,heat,kitchen,The kitchen heat has been reduced.
+,,,Turn the bedroom heater down a bit,decrease,heat,bedroom,The bedroom is now cooler.
+,,,"The washroom is too warm, decrease it",decrease,heat,washroom,The washroom heat has been decreased.
+,,,Drop the volume level please,decrease,volume,none,The volume has been decreased.
+,,,Reduce the sound in the kitchen,decrease,volume,kitchen,The kitchen audio has been reduced.
+,,,Make it quieter in the bedroom,decrease,volume,bedroom,The bedroom volume has been lowered.
+,,,Reduce the speaker level in the washroom,decrease,volume,washroom,The washroom sound is now quieter.
+,,,Lower the overall heat please,decrease,heat,none,The heat has been turned down.
+,,,Reduce the bedroom temperature,decrease,heat,bedroom,The bedroom temperature has been lowered.
+,,,Cool down the washroom for me,decrease,heat,washroom,The washroom heat has been decreased.
+,,,Could you reduce the volume?,decrease,volume,none,The volume has been decreased.
+,,,Turn the music down in the kitchen,decrease,volume,kitchen,The kitchen volume is now lower.
+,,,Make the bedroom quieter please,decrease,volume,bedroom,The bedroom volume has been turned down.
+,,,Soften the sound in the washroom,decrease,volume,washroom,The washroom sound has been softened.
+,,,Cool it down a little please,decrease,heat,none,The temperature has been decreased slightly.
+,,,Lower the kitchen thermostat,decrease,heat,kitchen,The kitchen heat has been reduced.
+,,,I'd like less heat in the bedroom,decrease,heat,bedroom,The bedroom is now cooler.
+,,,Reduce the temperature in the washroom,decrease,heat,washroom,The washroom temperature has been decreased.
+,,,Please reduce the audio volume,decrease,volume,none,The volume has been turned down.
+,,,Quiet the kitchen music,decrease,volume,kitchen,The kitchen music has been turned down.
+,,,Drop the bedroom audio level,decrease,volume,bedroom,The bedroom audio has been lowered.
+,,,Turn the washroom volume down,decrease,volume,washroom,The washroom volume has been decreased.
+,,,Let's cool down the house,decrease,heat,none,The temperature has been lowered.
+,,,Pull down the heat in the kitchen,decrease,heat,kitchen,The kitchen is now cooler.
+,,,"Bedroom heat is too high, lower it",decrease,heat,bedroom,The bedroom heat has been reduced.
+,,,Washroom heating needs to go down,decrease,heat,washroom,The washroom heat has been decreased.
+,,,"Volume is too high, turn it down",decrease,volume,none,The volume has been lowered.
+,,,Make the kitchen less noisy,decrease,volume,kitchen,The kitchen is now quieter.
+,,,Reduce the bedroom speaker volume,decrease,volume,bedroom,The bedroom volume has been turned down.
+,,,Quiet the washroom sound output,decrease,volume,washroom,The washroom is now quieter.
+,,,Reduce overall heat levels please,decrease,heat,none,The heat has been decreased.
+,,,Kitchen heat is a bit much,decrease,heat,kitchen,The kitchen temperature has been turned down.
+,,,Turn the bedroom thermostat down,decrease,heat,bedroom,The bedroom temperature has been decreased.
+,,,Cool off the washroom a bit,decrease,heat,washroom,The washroom is now cooler.
+,,,Can you lower the volume please?,decrease,volume,none,The volume has been turned down.
+,,,Turn down the volume in the kitchen,decrease,volume,kitchen,The kitchen volume has been reduced.
+,,,Please reduce the bedroom volume,decrease,volume,bedroom,The bedroom sound has been turned down.
+,,,Make the washroom sound quieter,decrease,volume,washroom,The washroom audio has been lowered.
+,,,Lower the temperature a little,decrease,heat,none,The temperature has been decreased.
+,,,Kitchen needs less heat,decrease,heat,kitchen,The kitchen is now less hot.
+,,,"Bedroom is too hot, reduce it",decrease,heat,bedroom,The bedroom heat has been decreased.
+,,,Cool down the washroom please,decrease,heat,washroom,The washroom temperature has been lowered.
+,,,Soften the volume now,decrease,volume,none,The volume has been decreased.
+,,,Lower the music volume in kitchen,decrease,volume,kitchen,The kitchen music is now softer.
+,,,"Bedroom sound too loud, reduce it",decrease,volume,bedroom,The bedroom volume has been reduced.
+,,,Quiet the washroom speaker please,decrease,volume,washroom,The washroom sound is now quieter.
+,,,I'm feeling too warm here,decrease,heat,none,The heat has been decreased.
+,,,The kitchen is overheating,decrease,heat,kitchen,The kitchen temperature has been reduced.
+,,,Please cool down the bedroom,decrease,heat,bedroom,The bedroom is now cooler.
+,,,Lower the heating in the washroom,decrease,heat,washroom,The washroom heat has been reduced.
+,,,Could you turn the volume down a bit?,decrease,volume,none,The volume has been turned down.
+,,,Reduce the audio in the kitchen,decrease,volume,kitchen,The kitchen audio is now softer.
+,,,Bedroom volume down please,decrease,volume,bedroom,The bedroom volume has been lowered.
+,,,The washroom is too loud,decrease,volume,washroom,The washroom volume has been decreased.
+,,,Turn the heat setting down,decrease,heat,none,The temperature has been decreased.
+,,,Bring down the kitchen heating,decrease,heat,kitchen,The kitchen heat has been reduced.
+,,,Cut the heat in the bedroom please,decrease,heat,bedroom,The bedroom heat has been turned down.
+,,,Reduce washroom heating level,decrease,heat,washroom,The washroom is now cooler.
+,,,Please lower the sound volume,decrease,volume,none,The volume has been decreased.
+,,,Quiet down the kitchen volume,decrease,volume,kitchen,The kitchen is quieter now.
+,,,Lower the bedroom audio quickly,decrease,volume,bedroom,The bedroom sound has been turned down.
+,,,Washroom needs to be quieter,decrease,volume,washroom,The washroom volume is now lower.
+,,,Turn the heating off a bit,decrease,heat,none,The heat has been reduced.
+,,,Make the kitchen slightly cooler,decrease,heat,kitchen,The kitchen is now cooler.
+,,,Drop the bedroom heat setting,decrease,heat,bedroom,The bedroom heat has been reduced.
+,,,Cool the washroom temperature,decrease,heat,washroom,The washroom temperature has been decreased.
+,,,Lower the overall volume,decrease,volume,none,The volume has been reduced.
+,,,Drop the kitchen audio volume,decrease,volume,kitchen,The kitchen volume has been decreased.
+,,,Bedroom sound level is too high,decrease,volume,bedroom,The bedroom volume has been turned down.
+,,,Tone down the washroom speaker,decrease,volume,washroom,The washroom speaker is now quieter.
+,,,Turn the house temperature down,decrease,heat,none,The temperature has been decreased.
+,,,Cool down the kitchen space,decrease,heat,kitchen,The kitchen heat has been reduced.
+,,,Bring the bedroom temperature down,decrease,heat,bedroom,The bedroom is now cooler.
+,,,Lower the heating in the washroom now,decrease,heat,washroom,The washroom heat has been decreased.
+,,,Turn down the music a bit,decrease,volume,none,The volume has been slightly reduced.
+,,,"Volume is loud in the kitchen, decrease it",decrease,volume,kitchen,The kitchen volume has been reduced.
+,,,"Bedroom too noisy, turn it down",decrease,volume,bedroom,The bedroom volume has been decreased.
+,,,Washroom sound is a bit much,decrease,volume,washroom,The washroom volume has been turned down.
+,,,The air is too warm here,decrease,heat,none,The heat has been lowered.
+,,,Kitchen needs less heat for now,decrease,heat,kitchen,The kitchen heat has been turned down.
+,,,Bedroom temperature is too high,decrease,heat,bedroom,The bedroom is now cooler.
+,,,Washroom heating is excessive,decrease,heat,washroom,The washroom heat has been reduced.
+,,,Please turn the volume down immediately,decrease,volume,none,The volume has been turned down.
+,,,Lower the music in the kitchen please,decrease,volume,kitchen,The kitchen music has been decreased.
+,,,Adjust the bedroom volume downward,decrease,volume,bedroom,The bedroom sound has been turned down.
+,,,Make the washroom sound more subtle,decrease,volume,washroom,The washroom volume has been softened.
+,,,Cut down the heat,decrease,heat,none,The heat has been decreased.
+,,,Turn down the kitchen stove heat,decrease,heat,kitchen,The kitchen is now cooler.
+,,,Pull down the bedroom heater,decrease,heat,bedroom,The bedroom temperature has dropped.
+,,,Washroom heat needs to be turned down,decrease,heat,washroom,The washroom is now cooler.
+,,,Reduce the sound drastically,decrease,volume,none,The volume has been greatly reduced.
+,,,Quiet the kitchen speaker a little,decrease,volume,kitchen,The kitchen speaker is now quieter.
+,,,The bedroom audio should be lowered,decrease,volume,bedroom,The bedroom audio is now softer.
+,,,Make the washroom less noisy,decrease,volume,washroom,The washroom audio has been lowered.
+,,,Tone down the overall heat level,decrease,heat,none,The temperature has been reduced.
+,,,Reduce the kitchen heat slightly,decrease,heat,kitchen,The kitchen heat is now lower.
+,,,"Bedroom feels too warm, cool it down",decrease,heat,bedroom,The bedroom is now cooler.
+,,,Please lower the washroom heating level,decrease,heat,washroom,The washroom heat has been turned down.
+,,,Make the room quieter overall,decrease,volume,none,The volume has been lowered.
+,,,Turn the music down in the kitchen area,decrease,volume,kitchen,The kitchen music has been turned down.
+,,,Bedroom sound too loud for sleep,decrease,volume,bedroom,The bedroom volume has been lowered.
+,,,Washroom is echoing?lower the sound,decrease,volume,washroom,The washroom volume has been decreased.
+,,,Reduce all heating where possible,decrease,heat,none,All heating has been reduced.
+,,,The kitchen doesn't need this much heat,decrease,heat,kitchen,The kitchen heat has been lowered.
+,,,Adjust the bedroom temperature downward,decrease,heat,bedroom,The bedroom is cooler now.
+,,,Please reduce washroom temperature,decrease,heat,washroom,The washroom temperature has been reduced.
+,,,Lessen the sound level,decrease,volume,none,The volume has been turned down.
+,,,Tone down the audio in the kitchen,decrease,volume,kitchen,The kitchen audio has been decreased.
+,,,Lower the bedroom speaker volume,decrease,volume,bedroom,The bedroom volume has been turned down.
+,,,Reduce washroom sound output,decrease,volume,washroom,The washroom sound is now softer.
+,,,Drop the internal temperature,decrease,heat,none,The heat has been decreased.
+,,,Turn the kitchen burner down,decrease,heat,kitchen,The kitchen is now cooler.
+,,,Bedroom heating is high?lower it please,decrease,heat,bedroom,The bedroom heating has been reduced.
+,,,The washroom temperature is too much,decrease,heat,washroom,The washroom is now less warm.
+,,,Soften the background audio,decrease,volume,none,The background audio has been lowered.
+,,,Bring the kitchen volume lower,decrease,volume,kitchen,The kitchen volume has been decreased.
+,,,Turn the bedroom volume to a softer level,decrease,volume,bedroom,The bedroom volume has been adjusted.
+,,,Quiet the washroom music playback,decrease,volume,washroom,Music in the washroom has been turned down.
+,,,Bring down the central heating a bit,decrease,heat,none,The heat has been slightly lowered.
+,,,Reduce heat from the kitchen radiator,decrease,heat,kitchen,The kitchen is now cooler.
+,,,Please cool the bedroom as well,decrease,heat,bedroom,The bedroom heat has been reduced.
+,,,Turn off some washroom heat please,decrease,heat,washroom,The washroom is now cooler.
+,,,Silence the system volume a bit,decrease,volume,none,The system volume has been lowered.
+,,,Audio in the kitchen is too much,decrease,volume,kitchen,The kitchen audio has been decreased.
+,,,Bedroom needs a softer volume,decrease,volume,bedroom,The bedroom sound is now quieter.
+,,,Quiet the washroom quickly,decrease,volume,washroom,The washroom volume has been decreased.
+,,,Temperature too high?reduce it,decrease,heat,none,The temperature has been decreased.
+,,,Cool off the kitchen now,decrease,heat,kitchen,The kitchen temperature has been lowered.
+,,,"Bedroom is stuffy, turn down the heat",decrease,heat,bedroom,The bedroom heat has been turned down.
+,,,Less heat in the washroom please,decrease,heat,washroom,The washroom is now cooler.
+,,,Turn down the sound just a notch,decrease,volume,none,The volume has been slightly decreased.
+,,,Make the kitchen feel cooler please,decrease,heat,kitchen,The kitchen temperature has been reduced.
+,,,Drop the bedroom volume right now,decrease,volume,bedroom,The bedroom volume has been turned down.
+,,,Reduce the heat in the washroom for comfort,decrease,heat,washroom,The washroom is now more comfortable.
+,,,Get me the newspaper,bring,newspaper,none,The newspaper has been brought to you.
+,,,Bring the newspaper,bring,newspaper,none,The newspaper has been brought to you.
+,,,Fetch the newspaper,bring,newspaper,none,The newspaper has been brought to you.
+,,,Bring some juice,bring,juice,none,Your juice has been brought.
+,,,Bring socks,bring,socks,none,I have brought your socks.
+,,,Go get me my socks,bring,socks,none,The socks have been brought to you.
+,,,Fetch my socks,bring,socks,none,Your socks have been brought.
+,,,Bring newspaper,bring,newspaper,none,The newspaper has been brought to you.
+,,,Go get me some juice,bring,juice,none,I have brought you the juice.
+,,,Bring me my socks,bring,socks,none,I have brought you the socks.
+,,,Get me my socks,bring,socks,none,I've brought you the socks.
+,,,Bring my socks,bring,socks,none,Your socks have been brought to you.
+,,,Bring me the newspaper,bring,newspaper,none,The newspaper has been brought to you.
+,,,Go get the newspaper,bring,newspaper,none,The newspaper has been brought to you.
+,,,Bring me some juice,bring,juice,none,The juice has been brought to you.
+,,,Get me some juice,bring,juice,none,The juice has been brought to you.
+,,,Bring juice,bring,juice,none,The juice has been brought to you.
+,,,Bring me my shoes,bring,shoes,none,Your shoes have been brought to you.
+,,,Get me my shoes,bring,shoes,none,Your shoes have been brought to you.
+,,,Bring shoes,bring,shoes,none,I have brought the shoes to you.
+,,,Bring my shoes,bring,shoes,none,Your shoes have been brought to you.
+,,,Go get me my shoes,bring,shoes,none,The shoes have been brought to you.
+,,,Fetch my shoes,bring,shoes,none,I have fetched your shoes.
+,,,Go get my socks please,bring,socks,none,I've brought your socks.
+,,,Fetch me a pair of socks,bring,socks,none,Here are your socks.
+,,,"I need my socks, can you bring them?",bring,socks,none,Your socks are here.
+,,,Bring some socks for me,bring,socks,none,Here are your socks.
+,,,Could you get my socks?,bring,socks,none,I've brought your socks.
+,,,Please fetch my socks,bring,socks,none,Your socks are here.
+,,,Grab my socks for me,bring,socks,none,I've brought your socks.
+,,,Would you mind bringing my socks?,bring,socks,none,Here are your socks.
+,,,Go and get the socks,bring,socks,none,I've got your socks.
+,,,Get my socks now,bring,socks,none,Here are your socks.
+,,,Retrieve my socks,bring,socks,none,I've brought your socks.
+,,,Can I have my socks?,bring,socks,none,Here are your socks.
+,,,Get me some socks,bring,socks,none,Your socks are here.
+,,,Please bring socks quickly,bring,socks,none,I've got them right here.
+,,,Bring me socks right away,bring,socks,none,Here are your socks.
+,,,Would you go fetch my socks?,bring,socks,none,I brought your socks.
+,,,Grab the socks please,bring,socks,none,Here are your socks.
+,,,Fetch those socks for me,bring,socks,none,I've brought your socks.
+,,,Could you bring the socks here?,bring,socks,none,Here you go.
+,,,Get the socks from the drawer,bring,socks,none,Here are your socks.
+,,,Bring those socks over,bring,socks,none,I've brought them.
+,,,"I need socks, bring them now",bring,socks,none,Here are your socks.
+,,,Please go get the socks,bring,socks,none,I've got them for you.
+,,,Hand me the socks please,bring,socks,none,Here are your socks.
+,,,Get the newspaper please,bring,newspaper,none,I've brought your newspaper.
+,,,Fetch the newspaper for me,bring,newspaper,none,Here is your newspaper.
+,,,Can you bring the paper?,bring,newspaper,none,Here's your newspaper.
+,,,Please go grab the newspaper,bring,newspaper,none,I've brought it.
+,,,Could you get me the newspaper?,bring,newspaper,none,Here's your newspaper.
+,,,Go get the newspaper quickly,bring,newspaper,none,Here it is.
+,,,I need today's newspaper,bring,newspaper,none,Here is today's paper.
+,,,Get me the morning paper,bring,newspaper,none,Here's the morning paper.
+,,,Bring me today's news,bring,newspaper,none,Here's your newspaper.
+,,,Please bring the newspaper now,bring,newspaper,none,I've brought your newspaper.
+,,,Can you fetch the newspaper?,bring,newspaper,none,Here's your newspaper.
+,,,Hand me the newspaper,bring,newspaper,none,Here it is.
+,,,Pick up the newspaper for me,bring,newspaper,none,I've got your newspaper.
+,,,Could you go get the newspaper?,bring,newspaper,none,Here is your newspaper.
+,,,Grab the newspaper for me please,bring,newspaper,none,I've brought the newspaper.
+,,,Get that newspaper,bring,newspaper,none,Here is the paper.
+,,,Please retrieve the newspaper,bring,newspaper,none,Here's your newspaper.
+,,,Go and bring the newspaper in,bring,newspaper,none,I've brought it in.
+,,,Get the paper and bring it to me,bring,newspaper,none,Here's your newspaper.
+,,,Please bring me that newspaper,bring,newspaper,none,Here you go.
+,,,Bring me the front page,bring,newspaper,none,Here is the front page.
+,,,Get me the news,bring,newspaper,none,Here's the newspaper.
+,,,Bring that newspaper right here,bring,newspaper,none,Here it is.
+,,,I want the newspaper now,bring,newspaper,none,Here you go.
+,,,Go get some juice please,bring,juice,none,I've brought you juice.
+,,,Fetch a glass of juice for me,bring,juice,none,Here is your juice.
+,,,Can you bring me juice?,bring,juice,none,Here's your juice.
+,,,Bring the juice to me now,bring,juice,none,Here it is.
+,,,"I'd like some juice, please bring it",bring,juice,none,Here is your juice.
+,,,Could you get me some juice?,bring,juice,none,Here's your juice.
+,,,Grab a bottle of juice for me,bring,juice,none,Here you go.
+,,,Juice please?bring it here,bring,juice,none,Here is your juice.
+,,,Bring juice from the fridge,bring,juice,none,I brought your juice.
+,,,Get me a cup of juice,bring,juice,none,Here is your cup of juice.
+,,,Fetch me that juice,bring,juice,none,Here it is.
+,,,Go and grab juice for me,bring,juice,none,Here's your juice.
+,,,Bring a cold juice please,bring,juice,none,Here's your cold juice.
+,,,Could you go get me juice?,bring,juice,none,Here's your juice.
+,,,Please hand me some juice,bring,juice,none,Here is your juice.
+,,,"I want some juice, go get it",bring,juice,none,I've brought your juice.
+,,,Bring me a drink?juice is fine,bring,juice,none,Here is your juice.
+,,,Could I get some juice now?,bring,juice,none,Here you go.
+,,,Bring that orange juice here,bring,juice,none,Here is your orange juice.
+,,,I'm thirsty?juice please,bring,juice,none,Here's your juice.
+,,,Fetch some juice right away,bring,juice,none,Here's your juice.
+,,,Bring me the juice now,bring,juice,none,Here is your juice.
+,,,Please get me juice fast,bring,juice,none,Here's your juice.
+,,,Bring juice to the table,bring,juice,none,Here is your juice.
+,,,Bring me my shoes please,bring,shoes,none,Here you go?your shoes.
+,,,Fetch my shoes from over there,bring,shoes,none,Here are your shoes.
+,,,Can you go get my shoes?,bring,shoes,none,Here are your shoes.
+,,,Bring the shoes now,bring,shoes,none,Here they are.
+,,,Grab my shoes and bring them here,bring,shoes,none,I've brought your shoes.
+,,,Could you get me the shoes?,bring,shoes,none,Here are your shoes.
+,,,"I need my shoes, go get them",bring,shoes,none,Here are your shoes.
+,,,Please fetch my shoes,bring,shoes,none,Here are your shoes.
+,,,Bring over the shoes,bring,shoes,none,I've brought them.
+,,,Go get the shoes now,bring,shoes,none,Here are your shoes.
+,,,Get those shoes for me,bring,shoes,none,Here you go.
+,,,Bring me my sneakers,bring,shoes,none,Here are your sneakers.
+,,,Grab those shoes for me please,bring,shoes,none,Here are your shoes.
+,,,Please bring the shoes right here,bring,shoes,none,Here they are.
+,,,Shoes please?go get them,bring,shoes,none,Here are your shoes.
+,,,Can you find and bring my shoes?,bring,shoes,none,Here are your shoes.
+,,,I want to wear my shoes?get them,bring,shoes,none,Here you go.
+,,,Go fetch the shoes,bring,shoes,none,I've got them for you.
+,,,Please retrieve my shoes,bring,shoes,none,Here are your shoes.
+,,,Bring them?my shoes please,bring,shoes,none,I've brought them.
+,,,Go and get the shoes from the hallway,bring,shoes,none,Here they are.
+,,,Get my shoes from the door,bring,shoes,none,Here are your shoes.
+,,,Go bring my shoes quickly,bring,shoes,none,Here they are.
+,,,Bring my shoes right away,bring,shoes,none,Here are your shoes.
+,,,"Socks, please bring them to me.",bring,socks,none,Here is your socks.
+,,,Bring me a pair of socks.,bring,socks,none,Here is your socks.
+,,,Fetch those socks for me now.,bring,socks,none,Here is your socks.
+,,,I need socks?can you bring them?,bring,socks,none,Here is your socks.
+,,,I want my socks?go get them.,bring,socks,none,Here is your socks.
+,,,Could you find my socks?,bring,socks,none,Here is your socks.
+,,,Please hand over my socks.,bring,socks,none,Here is your socks.
+,,,Get those socks here quickly.,bring,socks,none,Here is your socks.
+,,,Please go and get the socks.,bring,socks,none,Here is your socks.
+,,,Bring my wool socks here.,bring,socks,none,Here is your socks.
+,,,Hand me my socks if you can.,bring,socks,none,Here is your socks.
+,,,Would you grab the socks for me?,bring,socks,none,Here is your socks.
+,,,"I left my socks, get them.",bring,socks,none,Here is your socks.
+,,,Could I get the socks now?,bring,socks,none,Here is your socks.
+,,,Go retrieve my socks please.,bring,socks,none,Here is your socks.
+,,,Fetch and bring my socks now.,bring,socks,none,Here is your socks.
+,,,Could you go find my socks?,bring,socks,none,Here is your socks.
+,,,Grab me the newspaper.,bring,newspaper,none,Here is your newspaper.
+,,,Could you go grab the newspaper?,bring,newspaper,none,Here is your newspaper.
+,,,Please hand me the paper.,bring,newspaper,none,Here is your newspaper.
+,,,Bring the daily newspaper to me.,bring,newspaper,none,Here is your newspaper.
+,,,I'd like the newspaper now.,bring,newspaper,none,Here is your newspaper.
+,,,Could I have the newspaper please?,bring,newspaper,none,Here is your newspaper.
+,,,Go pick up the newspaper for me.,bring,newspaper,none,Here is your newspaper.
+,,,Bring the front page to me.,bring,newspaper,none,Here is your newspaper.
+,,,I want the newspaper in my hands.,bring,newspaper,none,Here is your newspaper.
+,,,Fetch today's newspaper please.,bring,newspaper,none,Here is your newspaper.
+,,,Please bring the morning paper.,bring,newspaper,none,Here is your newspaper.
+,,,I need the newspaper?get it please.,bring,newspaper,none,Here is your newspaper.
+,,,Hand me the news today.,bring,newspaper,none,Here is your newspaper.
+,,,Bring me today's edition.,bring,newspaper,none,Here is your newspaper.
+,,,Get the paper from outside.,bring,newspaper,none,Here is your newspaper.
+,,,Go get the newspaper right now.,bring,newspaper,none,Here is your newspaper.
+,,,Deliver the newspaper to me.,bring,newspaper,none,Here is your newspaper.
+,,,Pick up the newspaper for me.,bring,newspaper,none,Here is your newspaper.
+,,,Get me the news from the porch.,bring,newspaper,none,Here is your newspaper.
+,,,Bring me my morning newspaper.,bring,newspaper,none,Here is your newspaper.
+,,,Can you pour me some juice and bring it?,bring,juice,none,Here is your juice.
+,,,I'm thirsty?can you grab juice?,bring,juice,none,Here is your juice.
+,,,Please fetch a bottle of juice.,bring,juice,none,Here is your juice.
+,,,Go grab the juice from the fridge.,bring,juice,none,Here is your juice.
+,,,Could you serve me juice?,bring,juice,none,Here is your juice.
+,,,Bring some orange juice for me.,bring,juice,none,Here is your juice.
+,,,I'd like cold juice?please bring it.,bring,juice,none,Here is your juice.
+,,,Fetch that bottle of juice now.,bring,juice,none,Here is your juice.
+,,,Bring me apple juice if possible.,bring,juice,none,Here is your juice.
+,,,Get juice and bring it here.,bring,juice,none,Here is your juice.
+,,,Can I have some juice now?,bring,juice,none,Here is your juice.
+,,,Would you grab me some juice?,bring,juice,none,Here is your juice.
+,,,Please bring fresh juice.,bring,juice,none,Here is your juice.
+,,,Could you go fetch juice?,bring,juice,none,Here is your juice.
+,,,"Juice, please bring it over.",bring,juice,none,Here is your juice.
+,,,I want a drink?juice please.,bring,juice,none,Here is your juice.
+,,,Juice from the fridge?bring it.,bring,juice,none,Here is your juice.
+,,,Hand me the juice.,bring,juice,none,Here is your juice.
+,,,Bring a cold drink?juice.,bring,juice,none,Here is your juice.
+,,,Get orange juice and bring it.,bring,juice,none,Here is your juice.
+,,,Please go bring my sneakers.,bring,shoes,none,Here is your shoes.
+,,,Can you retrieve my shoes?,bring,shoes,none,Here is your shoes.
+,,,I need my shoes right away.,bring,shoes,none,Here is your shoes.
+,,,Go and fetch the shoes now.,bring,shoes,none,Here is your shoes.
+,,,Bring my shoes from the closet.,bring,shoes,none,Here is your shoes.
+,,,Please carry the shoes to me.,bring,shoes,none,Here is your shoes.
+,,,Could you deliver my shoes?,bring,shoes,none,Here is your shoes.
+,,,Get those shoes for me quickly.,bring,shoes,none,Here is your shoes.
+,,,Go pick up my shoes please.,bring,shoes,none,Here is your shoes.
+,,,I want my shoes?go get them.,bring,shoes,none,Here is your shoes.
+,,,Bring the shoes from the door.,bring,shoes,none,Here is your shoes.
+,,,Hand me my shoes quickly.,bring,shoes,none,Here is your shoes.
+,,,Fetch my running shoes.,bring,shoes,none,Here is your shoes.
+,,,Get the shoes from under the bed.,bring,shoes,none,Here is your shoes.
+,,,Please get the shoes now.,bring,shoes,none,Here is your shoes.
+,,,Could you grab the shoes fast?,bring,shoes,none,Here is your shoes.
+,,,Retrieve my shoes for me.,bring,shoes,none,Here is your shoes.
+,,,Find and bring my shoes.,bring,shoes,none,Here is your shoes.
+,,,Bring shoes from the hallway.,bring,shoes,none,Here is your shoes.
+,,,Get the shoes and bring them.,bring,shoes,none,Here is your shoes.
+,,,Can you get my socks for me?,bring,socks,none,Here is your socks.
+,,,Please grab the newspaper and bring it here.,bring,newspaper,none,Here is your newspaper.
+,,,Would you mind bringing me some juice?,bring,juice,none,Here is your juice.
+,,,I left my shoes at the door?can you bring them?,bring,shoes,none,Here is your shoes.
+,,,Change language,change language,none,none,The language has been successfully changed.
+,,,Switch the language,change language,none,none,Language has been switched successfully.
+,,,Change system language,change language,none,none,The system language has been successfully changed.
+,,,Open language settings,change language,none,none,Language settings have been opened successfully. Let me know if you want to change the language.
+,,,Set the language,change language,none,none,The language has been set successfully.
+,,,Language settings,change language,none,none,Language settings have been updated successfully.
+,,,Set language to Chinese,change language,Chinese,none,The language has been set to Chinese.
+,,,Set language to Korean,change language,Korean,none,The language has been successfully set to Korean.
+,,,Set my device to Chinese,change language,Chinese,none,The language has been successfully set to Chinese.
+,,,OK now switch the main language to Chinese,change language,Chinese,none,The main language has been switched to Chinese.
+,,,Set my phone's language to English,change language,English,none,The phone's language has been successfully set to English.
+,,,I need to practice my German. Switch the language,change language,German,none,The language has been changed to German. Viel Spa   beim ?ben!
+,,,I need to practice my English. Switch the language,change language,English,none,The language has been switched to English. Happy practicing!
+,,,Set language to German,change language,German,none,Language has been successfully set to German.
+,,,Set language to English,change language,English,none,The language has been set to English.
+,,,OK now switch the main language to Korean,change language,Korean,none,The main language has been switched to Korean.
+,,,OK now switch the main language to English,change language,English,none,The main language has been switched to English.
+,,,Set my phone's language to Chinese,change language,Chinese,none,The phone's language has been successfully set to Chinese.
+,,,I need to practice my Korean. Switch the language,change language,Korean,none,The language has been switched to Korean for your practice.
+,,,Allow a different language,change language,none,none,Language preferences have been made accessible. You can now switch to your desired language.
+,,,Use a different language,change language,none,none,The language has been changed successfully.
+,,,Change the language,change language,none,none,The language has been successfully changed.
+,,,Switch language,change language,none,none,The language has been switched successfully.
+,,,Switch languages,change language,none,none,The language has been switched successfully.
+,,,Set my phone's language to German,change language,German,none,The phone's language has been successfully changed to German.
+,,,Set my phone's language to Korean,change language,Korean,none,The phone's language has been successfully changed to Korean.
+,,,I need to practice my Chinese. Switch the language,change language,Chinese,none,The language has been switched to Chinese for your practice.
+,,,OK now switch the main language to German,change language,German,none,Die Hauptsprache wurde auf Deutsch umgestellt.
+,,,Modify the system language please.,change language,none,none,Language changed.
+,,,I'd like to change the language.,change language,none,none,Language changed.
+,,,Switch to another language.,change language,none,none,Language changed.
+,,,Change how the device speaks.,change language,none,none,Language changed.
+,,,Let's switch languages.,change language,none,none,Language changed.
+,,,I want to use a different language.,change language,none,none,Language changed.
+,,,Can you update the language settings?,change language,none,none,Language changed.
+,,,Help me change the language.,change language,none,none,Language changed.
+,,,Adjust the current language.,change language,none,none,Language changed.
+,,,Let's use a new language.,change language,none,none,Language changed.
+,,,Switch the system language to Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Could you set the interface to Chinese?,change language,Chinese,none,Language set to Chinese.
+,,,Let's go with Chinese for the language.,change language,Chinese,none,Language set to Chinese.
+,,,I want to use Chinese as my language.,change language,Chinese,none,Language set to Chinese.
+,,,Select Chinese as the default language.,change language,Chinese,none,Language set to Chinese.
+,,,Make Chinese the main language.,change language,Chinese,none,Language set to Chinese.
+,,,Use Chinese now.,change language,Chinese,none,Language set to Chinese.
+,,,Change to Mandarin Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Set it to Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Change everything to Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Please apply Korean as the main language.,change language,Korean,none,Language set to Korean.
+,,,Switch all menus to Korean.,change language,Korean,none,Language set to Korean.
+,,,Set my device to Korean now.,change language,Korean,none,Language set to Korean.
+,,,Enable Korean interface.,change language,Korean,none,Language set to Korean.
+,,,Switch the system language to Korean.,change language,Korean,none,Language set to Korean.
+,,,Go with Korean for the system language.,change language,Korean,none,Language set to Korean.
+,,,Change to Hangul.,change language,Korean,none,Language set to Korean.
+,,,Use Korean as the display language.,change language,Korean,none,Language set to Korean.
+,,,Let's make it Korean.,change language,Korean,none,Language set to Korean.
+,,,Switch to Korean language settings.,change language,Korean,none,Language set to Korean.
+,,,Use English as the main language.,change language,English,none,Language set to English.
+,,,Put everything in English.,change language,English,none,Language set to English.
+,,,Set default language to English.,change language,English,none,Language set to English.
+,,,Enable English menus.,change language,English,none,Language set to English.
+,,,I want English on my screen.,change language,English,none,Language set to English.
+,,,Switch the system to English.,change language,English,none,Language set to English.
+,,,Make English the current language.,change language,English,none,Language set to English.
+,,,Set everything back to English.,change language,English,none,Language set to English.
+,,,Apply English interface.,change language,English,none,Language set to English.
+,,,Let's go with English again.,change language,English,none,Language set to English.
+,,,Update the system to German.,change language,German,none,Language set to German.
+,,,Switch everything to German.,change language,German,none,Language set to German.
+,,,Apply German language settings.,change language,German,none,Language set to German.
+,,,Let's go German for the interface.,change language,German,none,Language set to German.
+,,,I want to see everything in German.,change language,German,none,Language set to German.
+,,,Set German as the language now.,change language,German,none,Language set to German.
+,,,Apply German as the device language.,change language,German,none,Language set to German.
+,,,Set German as my primary language.,change language,German,none,Language set to German.
+,,,Switch the display to German.,change language,German,none,Language set to German.
+,,,Use German going forward.,change language,German,none,Language set to German.
+,,,Switch the default language to Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,I'd like to use Chinese now.,change language,Chinese,none,Language set to Chinese.
+,,,Can we move to Chinese?,change language,Chinese,none,Language set to Chinese.
+,,,Please change to Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Set all menus to Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Let's switch to Chinese interface.,change language,Chinese,none,Language set to Chinese.
+,,,Replace current language with Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Can you change the system to Chinese?,change language,Chinese,none,Language set to Chinese.
+,,,I'd like to try Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Use Chinese instead.,change language,Chinese,none,Language set to Chinese.
+,,,Change everything over to Korean.,change language,Korean,none,Language set to Korean.
+,,,I'd prefer Korean now.,change language,Korean,none,Language set to Korean.
+,,,Set my profile language to Korean.,change language,Korean,none,Language set to Korean.
+,,,Can we go with Korean today?,change language,Korean,none,Language set to Korean.
+,,,I'd like to use Korean moving forward.,change language,Korean,none,Language set to Korean.
+,,,Please switch to Korean.,change language,Korean,none,Language set to Korean.
+,,,Apply the Korean language.,change language,Korean,none,Language set to Korean.
+,,,Go ahead and change it to Korean.,change language,Korean,none,Language set to Korean.
+,,,Let me use Korean.,change language,Korean,none,Language set to Korean.
+,,,Can we turn on Korean?,change language,Korean,none,Language set to Korean.
+,,,Change everything to English.,change language,English,none,Language set to English.
+,,,I prefer English.,change language,English,none,Language set to English.
+,,,Make English the default.,change language,English,none,Language set to English.
+,,,I want English menus now.,change language,English,none,Language set to English.
+,,,I'd like to switch to English.,change language,English,none,Language set to English.
+,,,Go back to English.,change language,English,none,Language set to English.
+,,,Return to English interface.,change language,English,none,Language set to English.
+,,,Switch over to English.,change language,English,none,Language set to English.
+,,,Enable full English mode.,change language,English,none,Language set to English.
+,,,Give me English settings.,change language,English,none,Language set to English.
+,,,Let's switch everything to German.,change language,German,none,Language set to German.
+,,,Set language preference to German.,change language,German,none,Language set to German.
+,,,I want German as my language.,change language,German,none,Language set to German.
+,,,Switch it all to German.,change language,German,none,Language set to German.
+,,,Please go with German.,change language,German,none,Language set to German.
+,,,Set system default to German.,change language,German,none,Language set to German.
+,,,Let's go with German settings.,change language,German,none,Language set to German.
+,,,Activate German language mode.,change language,German,none,Language set to German.
+,,,Apply full German language.,change language,German,none,Language set to German.
+,,,Please switch the UI to German.,change language,German,none,Language set to German.
+,,,Let's try using the Chinese language instead.,change language,Chinese,none,Language set to Chinese.
+,,,Set the interface to the Chinese language.,change language,Chinese,none,Language set to Chinese.
+,,,I'd like to use Mandarin from now on.,change language,Chinese,none,Language set to Chinese.
+,,,Please switch to Mandarin.,change language,Chinese,none,Language set to Chinese.
+,,,I'd like to use Chinese from now on.,change language,Chinese,none,Language set to Chinese.
+,,,Please switch to Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Switch over to Korean.,change language,Korean,none,Language set to Korean.
+,,,I want Hangul enabled.,change language,Korean,none,Language set to Korean.
+,,,Switch over to the Korean language.,change language,Korean,none,Language set to Korean.
+,,,I prefer using the Korean language.,change language,Korean,none,Language set to Korean.
+,,,Set the menus to Hangul.,change language,Korean,none,Language set to Korean.
+,,,Switch everything to English.,change language,English,none,Language set to English.
+,,,Can we use US English now?,change language,English,none,Language set to English.
+,,,Switch everything to the English language.,change language,English,none,Language set to English.
+,,,Please revert to US English.,change language,English,none,Language set to English.
+,,,Set it to Deutsch.,change language,German,none,Language set to German.
+,,,I need German for now.,change language,German,none,Language set to German.
+,,,Switch the whole system to Deutsch.,change language,German,none,Language set to German.
+,,,Switch the language to the German language.,change language,German,none,Language set to German.
+,,,Can you update the system language?,change language,none,none,Language changed.
+,,,Reconfigure the interface language to something else.,change language,none,none,Language changed.
+,,,Can you update the display language?,change language,none,none,Language changed.
+,,,I'd like to adjust the language.,change language,none,none,Language changed.
+,,,Change the interface language settings.,change language,none,none,Language changed.
+,,,Set the interface to Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Can you set the system to Mandarin?,change language,Chinese,none,Language set to Chinese.
+,,,I'd like to use Mandarin Chinese from now on.,change language,Chinese,none,Language set to Chinese.
+,,,Set the interface to Mandarin.,change language,Chinese,none,Language set to Chinese.
+,,,Set the menus to Korean.,change language,Korean,none,Language set to Korean.
+,,,Switch over to Hangul.,change language,Korean,none,Language set to Korean.
+,,,I want the Korean language enabled.,change language,Korean,none,Language set to Korean.
+,,,Please enable Korean as default.,change language,Korean,none,Language set to Korean.
+,,,Switch everything to US English.,change language,English,none,Language set to English.
+,,,Go back to US English.,change language,English,none,Language set to English.
+,,,Please revert to the English language.,change language,English,none,Language set to English.
+,,,Please revert to English.,change language,English,none,Language set to English.
+,,,Switch the language to Deutsch.,change language,German,none,Language set to German.
+,,,Set it to the German language.,change language,German,none,Language set to German.
+,,,Let's use German settings.,change language,German,none,Language set to German.
+,,,Switch the language to German.,change language,German,none,Language set to German.
+,,,Switch the whole system to the German language.,change language,German,none,Language set to German.
+,,,Let's use Deutsch settings.,change language,German,none,Language set to German.
+,,,I need the German language for now.,change language,German,none,Language set to German.
+,,,Open interface language menu please.,change language,none,none,Language changed.
+,,,Change the system language settings.,change language,none,none,Language changed.
+,,,Open display language menu please.,change language,none,none,Language changed.
+,,,Reconfigure the system language to something else.,change language,none,none,Language changed.
+,,,Can you update the language?,change language,none,none,Language changed.
+,,,Reconfigure the display language to something else.,change language,none,none,Language changed.
+,,,Update my language preferences.,change language,none,none,Language changed.
+,,,I'd like my device to use Mandarin Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Change how the language appears.,change language,none,none,Language changed.
+,,,I'd like to switch to the Korean language now.,change language,Korean,none,Language set to Korean.
+,,,Can we use Korean instead?,change language,Korean,none,Language set to Korean.
+,,,I'd prefer to use Mandarin.,change language,Chinese,none,Language set to Chinese.
+,,,Switch over to the German language language.,change language,German,none,Language set to German.
+,,,Set the default language as Deutsch.,change language,German,none,Language set to German.
+,,,Please change to the Korean language.,change language,Korean,none,Language set to Korean.
+,,,I'd prefer Deutsch on this device.,change language,German,none,Language set to German.
+,,,Switch to the Korean language for me.,change language,Korean,none,Language set to Korean.
+,,,I'd prefer to use the Chinese language.,change language,Chinese,none,Language set to Chinese.
+,,,Use the Korean language as default.,change language,Korean,none,Language set to Korean.
+,,,Set the default language as German.,change language,German,none,Language set to German.
+,,,Please change to Korean.,change language,Korean,none,Language set to Korean.
+,,,Use Hangul as default.,change language,Korean,none,Language set to Korean.
+,,,Modify the interface language.,change language,none,none,Language changed.
+,,,Set the default language as the German language.,change language,German,none,Language set to German.
+,,,Use the German language from now on.,change language,German,none,Language set to German.
+,,,Please change the menus to the English language.,change language,English,none,Language set to English.
+,,,Please change to Hangul.,change language,Korean,none,Language set to Korean.
+,,,I'd prefer to use Mandarin Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Default language should be US English.,change language,English,none,Language set to English.
+,,,I'd prefer to use Chinese.,change language,Chinese,none,Language set to Chinese.
+,,,Can we use Hangul instead?,change language,Korean,none,Language set to Korean.
+,,,Switch over to Deutsch language.,change language,German,none,Language set to German.
+,,,Change language configuration.,change language,none,none,Language changed.
+,,,Please go with Mandarin Chinese from now on.,change language,Chinese,none,Language set to Chinese.
+,,,Switch over to German language.,change language,German,none,Language set to German.
+,,,I'd like to switch to Hangul now.,change language,Korean,none,Language set to Korean.
+,,,Use German from now on.,change language,German,none,Language set to German.
+,,,Enable Mandarin as the main language.,change language,Chinese,none,Language set to Chinese.
+,,,Could you set it to Mandarin?,change language,Chinese,none,Language set to Chinese.

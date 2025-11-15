@@ -1,0 +1,8 @@
+dotenv
+openai
+dateparser
+text2num
+word2number
+numpy
+sentence-transformers
+psutil
