@@ -295,7 +295,8 @@ User Commands:
 # Instructions
 - Identify every phrase that expresses the intent to perform the "{function_name}" action.  
 - Focus only on verbs or short verb phrases that appear literally in the text.  
-- Exclude nouns or argument-specific parts such as object names or locations.  
+- Exclude standalone nouns or argument-specific terms, but allow natural verb + pronoun patterns 
+  (e.g., “verb + something”, “verb + anything”, “verb + it”) when they express the action intent.  
 - Keep only concise and natural phrases that directly represent the action itself.  
 - Do not infer, paraphrase, or generalize beyond what appears in the text.  
 - Each extracted phrase must exist verbatim (substring-level match) in the commands.  
