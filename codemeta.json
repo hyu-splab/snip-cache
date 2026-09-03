@@ -1,0 +1,65 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Snip-Cache",
+  "description": "A code snippet caching system for accurate, low-latency, and token-efficient LLM-based command-driven IoT systems.",
+  "codeRepository": "https://github.com/hyu-splab/snip-cache",
+  "url": "https://doi.org/10.1016/j.iot.2025.101852",
+  "license": "https://spdx.org/licenses/Apache-2.0",
+  "programmingLanguage": "Python",
+  "runtimePlatform": "Python 3.10 or later",
+  "applicationCategory": "Research software",
+  "dateCreated": "2025-11-14",
+  "copyrightYear": "2025",
+  "copyrightHolder": {
+    "@type": "Person",
+    "givenName": "Chiwon",
+    "familyName": "Song",
+    "@id": "https://orcid.org/0009-0003-0443-0032"
+  },
+  "author": {
+    "@type": "Person",
+    "givenName": "Chiwon",
+    "familyName": "Song",
+    "@id": "https://orcid.org/0009-0003-0443-0032"
+  },
+  "keywords": [
+    "LLM prompt caching",
+    "code snippet caching",
+    "snippet caching",
+    "semantic caching",
+    "command-driven IoT",
+    "natural-language device control",
+    "function calling",
+    "edge AI"
+  ],
+  "citation": {
+    "@type": "ScholarlyArticle",
+    "name": "Snip-Cache: A code snippet caching system for LLM-based command-driven IoT systems",
+    "identifier": "https://doi.org/10.1016/j.iot.2025.101852",
+    "datePublished": "2026",
+    "isPartOf": {
+      "@type": "PublicationVolume",
+      "volumeNumber": "36",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Internet of Things",
+        "issn": "2542-6605"
+      }
+    },
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Chiwon",
+        "familyName": "Song",
+        "@id": "https://orcid.org/0009-0003-0443-0032"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Sooyong",
+        "familyName": "Kang",
+        "@id": "https://orcid.org/0000-0002-5332-7846"
+      }
+    ]
+  }
+}

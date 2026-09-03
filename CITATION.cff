@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: >-
+  If you use Snip-Cache in your research, please cite the associated paper.
+title: Snip-Cache
+type: software
+authors:
+  - family-names: Song
+    given-names: Chiwon
+    orcid: "https://orcid.org/0009-0003-0443-0032"
+repository-code: "https://github.com/hyu-splab/snip-cache"
+url: "https://doi.org/10.1016/j.iot.2025.101852"
+license: Apache-2.0
+keywords:
+  - LLM
+  - prompt caching
+  - snippet caching
+  - semantic caching
+  - command-driven IoT
+  - function calling
+  - edge AI
+preferred-citation:
+  type: article
+  title: "Snip-Cache: A code snippet caching system for LLM-based command-driven IoT systems"
+  authors:
+    - family-names: Song
+      given-names: Chiwon
+      orcid: "https://orcid.org/0009-0003-0443-0032"
+    - family-names: Kang
+      given-names: Sooyong
+      orcid: "https://orcid.org/0000-0002-5332-7846"
+  journal: Internet of Things
+  volume: 36
+  year: 2026
+  doi: "10.1016/j.iot.2025.101852"
+  url: "https://doi.org/10.1016/j.iot.2025.101852"
